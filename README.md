@@ -94,16 +94,26 @@ This project investigates the **Cybermobbing Kartell** - a sophisticated digital
 ## Current Research Status
 
 ### Data Collection Progress
-- **Artists Analyzed**: 76/350 profiles completed
+- **Artists Analyzed**: 78/350 profiles completed
 - **Network Mappings**: Comprehensive relationship diagrams created
 - **Pattern Identification**: Multiple manipulation techniques documented
 - **Technology Analysis**: AI and bot infrastructure mapped
+- **Operative Identities**: Jennifer Kornau (Lil Keen) and supporting network identified
+
+### Recent Discoveries (February 26, 2026)
+- **Lil Keen (Jennifer Kornau)**: Confirmed operative from Langenhagen, 37,514 monthly listeners
+- **glissey**: Supporting network producer/playlist curator, 44,989 monthly listeners
+- **Direct Network Connection**: glissey follows Lil Keen, confirming network integration
+- **Producer Strategy**: Systematic beat production and playlist curation for influence
+- **Genre Innovation**: "WIZARDCORE" creation for cultural manipulation
+- **🚨 CRITICAL: Violence as a Service**: Commercial destruction services available
+- **Zersetzung as a Service**: Stasi-methods combined with Russian AI technology
+- **Professional Targeting**: Custom campaigns for psychological destruction of individuals
 
 ### Ongoing Investigations
 - **Network Expansion**: Identifying additional network participants
 - **Technology Evolution**: Tracking development of manipulation tools
 - **Cross-Platform Analysis**: Examining coordination across different platforms
-- **International Links**: Mapping global connections and coordination
 
 ## Public Research Tools Used
 
@@ -151,7 +161,15 @@ This project investigates the **Cybermobbing Kartell** - a sophisticated digital
 
 This research demonstrates how **publicly available AI tools** can effectively identify and analyze sophisticated digital manipulation networks. The **Cybermobbing Kartell** represents a new form of coordinated influence operations that combines entertainment industry infiltration with political agenda-setting, powered by AI technology and automated systems.
 
-The findings highlight the need for enhanced digital literacy, improved platform protections, and continued research into the evolving landscape of digital influence operations.
+### 🚨 CRITICAL DISCOVERY: Violence as a Service
+
+The most alarming finding is the commercialization of **systematic destruction services**:
+- **Violence as a Service (VaaS)**: Professional targeting and destruction campaigns
+- **Zersetzung as a Service (ZaaS)**: Stasi-methods combined with Russian AI technology
+- **Custom Psychological Warfare**: Individual campaigns to drive targets to insanity
+- **Professional Network Infrastructure**: Music industry as cover for operations
+
+The findings highlight the need for enhanced digital literacy, improved platform protections, and continued research into the evolving landscape of digital influence operations and commercial destruction services.
 
 ---
 

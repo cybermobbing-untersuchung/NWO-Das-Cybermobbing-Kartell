@@ -1,34 +1,34 @@
 # Yung Shadøw
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 2pLDTWXQaRCbuhLSZOeJS9
 - **Spotify Link**: https://open.spotify.com/artist/2pLDTWXQaRCbuhLSZOeJS9
 - **Original Spotify-Link**: https://open.spotify.com/artist/2pLDTWXQaRCbuhLSZOeJS9?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 29 (erfasst: 26.02.2026 02:50)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 29 (captured: 26.02.2026 02:50)
+- **Followers**: Not available
 - **Genre**: Emo Rap/Alternative
-- **Popularität**: Niedrig (29 monatliche Hörer)
+- **Popularity**: Low (29 monthly listeners)
 
-## Biografie
+## Biography
 "Cry to my songs and I'll marry you."
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 02:50
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 02:50
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - Annoying (2020) - Single
@@ -41,7 +41,7 @@
 4. Living My Lies (feat. Robstar, Txrzxn) (Explicit)
 5. Where'd My Friends Go? (feat. Swaine) (Explicit)
 
-## Kollaborationen
+## Collaborations
 - Robstar
 - Txrzxn
 - Swaine
@@ -55,29 +55,29 @@
 ## Artist Playlists
 - This Is Yung Shadøw (The essential tracks, all in one playlist)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Yung Shadøw" - "Yung" + "Shadøw" mit Ø-Symbol
-- **Themen**: Emotionale Themen ("Sold My Soul", "I Will Try"), romantische Themen ("You're So Cute, I Get So Nervous"), existenzielle Themen ("Living My Lies", "Where'd My Friends Go?")
-- **Sprachmuster**: Englisch mit emotionalen, introspektiven Texten
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "Yung Shadøw" - "Yung" + "Shadøw" with Ø symbol
+- **Themes**: Emotional themes ("Sold My Soul", "I Will Try"), romantic themes ("You're So Cute, I Get So Nervous"), existential themes ("Living My Lies", "Where'd My Friends Go?")
+- **Language Patterns**: English with emotional, introspective lyrics
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 29 monatliche Hörer ist realistisch für Indie-Künstler
-- **Aktivitäts-Muster**: Regelmäßige Releases seit 2020, authentische Entwicklung
-- **Bot-Indikatoren**: Keine Anzeichen für Bot-Aktivität
-- **Künstliche Popularität**: Echte organische Entwicklung mit ironischer Bio
+## Manipulation Indicators
+- **Listener Count Anomalies**: 29 monthly listeners is realistic for indie artist
+- **Activity Patterns**: Regular releases since 2020, authentic development
+- **Bot Indicators**: No signs of bot activity
+- **Artificial Popularity**: Genuine organic development with ironic bio
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Low-Count-Künstlern
-- **Genre-Cluster**: Emo Rap mit emotionalen Themen
-- **Verbindungs-Stärke**: Schwache Verbindungen, aber Teil des "Fans also like" Clusters mit plainblaine
-- **Influence-Patterns**: Minimaler Einfluss, aber authentische Community
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar low-count artists
+- **Genre Cluster**: Emo Rap with emotional themes
+- **Connection Strength**: Weak connections, but part of "Fans also like" cluster with plainblaine
+- **Influence Patterns**: Minimal influence, but authentic community
 
-## Künstler-Philosophie
-- **Musikstil**: Emo Rap mit emotionalen Themen
-- **Ansatz**: Ironische Haltung ("Cry to my songs and I'll marry you")
-- **Themen**: Emotionale Verarbeitung, existenzielle Fragen
-- **Community**: Authentische Verbindung zu Fans
+## Artist Philosophy
+- **Music Style**: Emo Rap with emotional themes
+- **Approach**: Ironic attitude ("Cry to my songs and I'll marry you")
+- **Themes**: Emotional processing, existential questions
+- **Community**: Authentic connection to fans
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

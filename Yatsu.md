@@ -91,3 +91,7 @@
 
 ## 🏆 SPECIAL FEATURES
 **HIGHEST VALUE SO FAR**: Yatsu has the highest reach of all artists captured so far with 52,481 monthly listeners! This indicates an established presence in the Techno/German Rap scene.
+
+
+## Related Artists
+*TBD - Requires API access for network analysis*

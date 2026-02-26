@@ -93,3 +93,7 @@
 
 ## 🎭 SPECIAL FEATURES
 **EXTREMELY MINIMALIST BIOGRAPHY**: Beneath040 has one of the shortest biographies of all captured artists - only "Ich bin zu müde um zu schlafen." The music addresses emotional and existential themes with moderate reach. The name possibly contains an area code (040).
+
+
+## Related Artists
+*TBD - Requires API access for network analysis*

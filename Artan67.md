@@ -89,3 +89,7 @@ Artan67 grew up in a small town and realized at a young age that his path would 
 
 ## 🎭 SPECIAL FEATURES
 **VERY DETAILED BIOGRAPHY**: Artan67 has one of the most detailed biographies of all captured artists, describing his life decisions and artistic development in detail. The music explicitly addresses drug themes ("I feel shitty because I smoke weed...") and personal struggles.
+
+
+## Related Artists
+*TBD - Requires API access for network analysis*

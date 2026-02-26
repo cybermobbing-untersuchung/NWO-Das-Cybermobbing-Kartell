@@ -74,3 +74,20 @@
 
 ## Status
 ✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+
+- **Monthly Listeners**: TBD - Requires API access
+- **Popularity**: TBD - Requires API access
+
+## Biography
+*TBD - Requires detailed research*
+
+## Discography
+*TBD - Requires API access for complete album list*
+
+## Related Artists
+*TBD - Requires API access for network analysis*
+
+## Network Analysis
+- **Status**: Pending detailed analysis
+- **Connections**: TBD
+- **Security Assessment**: Required BfV review

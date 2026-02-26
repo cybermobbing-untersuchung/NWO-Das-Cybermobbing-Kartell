@@ -31,18 +31,18 @@
 - No EPs available
 
 ### Singles
-- crash die whip (Latest Release) - Single
-- siehst du mich? (2025) - Single
+- crash the whip (Latest Release) - Single
+- do you see me? (2025) - Single
 
 ### Popular Tracks (Top 5)
-1. crash die whip
-2. siehst du mich? (Explicit)
+1. crash the whip
+2. do you see me? (Explicit)
 3. Realflex (feat. sabe) (Explicit)
-4. LASS NICHT LOS (feat. TEMPZ72) (Explicit)
+4. DON'T LET GO (feat. TEMPZ72) (Explicit)
 
 ## Collaborations
 - sabe (Realflex)
-- TEMPZ72 (LASS NICHT LOS)
+- TEMPZ72 (DON'T LET GO)
 - Matse (Navy Radio)
 - va1e (Navy Radio)
 - Snowz (Navy Radio)
@@ -51,7 +51,7 @@
 
 ## Patterns & Anomalies
 - **Name Conventions**: "Navy" - military/maritime reference
-- **Themes**: Cars (crash die whip), perception (siehst du mich?), reality (Realflex), attachment (LASS NICHT LOS)
+- **Themes**: Cars (crash the whip), perception (do you see me?), reality (Realflex), attachment (DON'T LET GO)
 - **Language Patterns**: German with English elements, direct lyrics
 - **Number Mysticism**: No obvious number patterns
 
@@ -69,7 +69,7 @@
 
 ## Artist Philosophy
 - **Music Style**: German Rap/Trap with direct elements
-- **Approach**: Community-oriented ("gebt euch musik")
+- **Approach**: Community-oriented ("give yourselves music")
 - **Themes**: Cars, perception, reality, attachment
 - **Community**: Strong collaboration presence with Matse, sabe
 

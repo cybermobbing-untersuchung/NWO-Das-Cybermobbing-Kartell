@@ -67,7 +67,7 @@
 
 ## Artist Philosophy
 - **Music Style**: German Rap/Trap with urban elements
-- **Approach**: Urban, Viennese ("#echtewiener")
+- **Approach**: Urban, Viennese ("#realviennese")
 - **Themes**: Architecture, brands, technology
 - **Community**: Strong collaboration presence with Maho, nightfvry
 

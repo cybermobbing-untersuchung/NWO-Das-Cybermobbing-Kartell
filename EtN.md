@@ -1,34 +1,34 @@
 # EtN
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 2VH5Z3AKm8Wgw9UB1L5oYP
 - **Spotify Link**: https://open.spotify.com/artist/2VH5Z3AKm8Wgw9UB1L5oYP
 - **Original Spotify-Link**: https://open.spotify.com/artist/2VH5Z3AKm8Wgw9UB1L5oYP?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 307 (erfasst: 26.02.2026 05:16)
-- **Followers**: Nicht verfügbar
-- **Genre**: Vielfältige Genres (Love Songs, Abend Songs, Party Banger)
-- **Popularität**: Sehr niedrig (307 monatliche Hörer)
+- **Monthly Listeners**: 307 (captured: 26.02.2026 05:16)
+- **Followers**: Not available
+- **Genre**: Diverse Genres (Love Songs, Evening Songs, Party Bangers)
+- **Popularity**: Very low (307 monthly listeners)
 
-## Biografie
+## Biography
 "EtN ist ein Artist aus Sachsen. 2023 hat er angefangen selbst Songs zu produzieren, aufzunehmen zu mixen und zu mastern. Mit seinen vielfältigen Genres spricht er ein breites Publikum seiner Hörer an und entwickelt so seinen eigenen Stil. Egal ob emotionale Love Songs, entspannte Abend Songs oder absolute Party Banger...hier ist für jeden Hörer etwas dabei. Seid gespannt auf alles was noch kommt!🔥"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 05:16
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 05:16
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - ALLEIN (Latest Release) - Single
@@ -41,36 +41,36 @@
 4. Deeptalks
 5. Summer Vibes
 
-## Kollaborationen
+## Collaborations
 - EYEN22 (EtN Radio)
 - Snowz (EtN Radio)
 - YANG JAY (EtN Radio)
 - Manic (Fans also like)
 - lued (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "EtN" - kurzer, technischer Name
-- **Themen**: Schönheit (LIPSTICK), Einsamkeit (ALLEIN), Liebe (Need your Love), Tiefe (Deeptalks), Atmosphäre (Summer Vibes)
-- **Sprachmuster**: Deutsch mit emotionalen, atmosphärischen Themen
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "EtN" - short, technical name
+- **Themes**: Beauty (LIPSTICK), loneliness (ALLEIN), love (Need your Love), depth (Deeptalks), atmosphere (Summer Vibes)
+- **Language Patterns**: German with emotional, atmospheric themes
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 307 monatliche Hörer (realistisch für Underground-Künstler)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, organische Entwicklung
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 307 monthly listeners (realistic for underground artist)
+- **Activity Patterns**: Regular releases, organic development
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Künstlern
-- **Genre-Cluster**: Vielfältige Genres mit emotionalen Themen
-- **Verbindungs-Stärke**: Stark verbunden mit Manic, lued (Fans also like)
-- **Influence-Patterns**: Teil des Indie/Underground Netzwerks
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar artists
+- **Genre Cluster**: Diverse genres with emotional themes
+- **Connection Strength**: Strongly connected with Manic, lued (Fans also like)
+- **Influence Patterns**: Part of Indie/Underground network
 
-## Künstler-Philosophie
-- **Musikstil**: Vielfältige Genres von Love Songs bis Party Banger
-- **Ansatz**: Selbstproduziert, vielfältig ("selbst Songs zu produzieren, aufzunehmen zu mixen und zu mastern")
-- **Themen**: Schönheit, Einsamkeit, Liebe, Tiefe, Atmosphäre
-- **Community**: Breite Zielgruppe, optimistische Ausrichtung
+## Artist Philosophy
+- **Music Style**: Diverse genres from Love Songs to Party Bangers
+- **Approach**: Self-produced, diverse ("selbst Songs zu produzieren, aufzunehmen zu mixen und zu mastern")
+- **Themes**: Beauty, loneliness, love, depth, atmosphere
+- **Community**: Broad target audience, optimistic orientation
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

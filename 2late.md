@@ -1,31 +1,31 @@
 # 2late
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 7DxRkRrRlHwxzbsypyrqR0
 - **Spotify Link**: https://open.spotify.com/artist/7DxRkRrRlHwxzbsypyrqR0
 - **Original Spotify-Link**: https://open.spotify.com/artist/7DxRkRrRlHwxzbsypyrqR0?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 42 (erfasst: 26.02.2026 01:32)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 42 (captured: 26.02.2026 01:32)
+- **Followers**: Not available
 - **Genre**: Alternative/Indie
-- **Popularität**: Niedrig (42 monatliche Hörer)
+- **Popularity**: Low (42 monthly listeners)
 
-## Biografie
+## Biography
 "42 monthly listeners 2late4hugs Archiv"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Verknüpfung mit "2late4hugs" gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Connection to "2late4hugs" found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 01:32
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 01:32
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### Singles
 - DISNEY (Latest Release) - Single
@@ -38,7 +38,7 @@
 4. DISNEY
 5. GRIND (2025)
 
-## Kollaborationen
+## Collaborations
 - Shellinski (HEAD LOW)
 - DAYDREAMCHASER (ME, MYSELF&I, WHO CARES?)
 - 2late4hugs (ME, MYSELF&I, WHO CARES?)
@@ -47,29 +47,29 @@
 - Lucidity (2late Radio)
 - utpv (2late Radio)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "2late" - Zeit-basierter Name mit Zahl
-- **Themen**: Emotionale Konzepte (REGRET, DISNEY), Selbstreflexion (ME, MYSELF&I)
-- **Sprachmuster**: Englisch mit emotionalen, introspektiven Texten
-- **Zahlenmystik**: "2" als Präfix, "42" Hörerzahl in Bio
+## Patterns & Anomalies
+- **Name Conventions**: "2late" - Time-based name with number
+- **Themes**: Emotional concepts (REGRET, DISNEY), self-reflection (ME, MYSELF&I)
+- **Language Patterns**: English with emotional, introspective lyrics
+- **Number Mysticism**: "2" as prefix, "42" listener count in bio
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 42 monatliche Hörer bei 2,000+ Plays (leicht verdächtig)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen 2025
-- **Bot-Indikatoren**: Moderat verdächtig, aber organische Aktivität ersichtlich
-- **Künstliche Popularität**: Leichte Anomalien, aber nicht extrem
+## Manipulation Indicators
+- **Listener Count Anomalies**: 42 monthly listeners with 2,000+ plays (slightly suspicious)
+- **Activity Patterns**: Regular releases 2025
+- **Bot Indicators**: Moderately suspicious, but organic activity evident
+- **Artificial Popularity**: Slight anomalies, but not extreme
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Hohe Kollaborationsdichte mit ähnlichen Indie-Künstlern
-- **Genre-Cluster**: Alternative/Indie mit emotionalen Themen
-- **Verbindungs-Stärke**: Stark verbunden mit Yite, Trinve, IMD43D (Fans also like)
-- **Influence-Patterns**: Teil des Indie-Alternative Netzwerks
+## Network Analysis
+- **Collaboration Density**: High collaboration density with similar indie artists
+- **Genre Cluster**: Alternative/Indie with emotional themes
+- **Connection Strength**: Strongly connected with Yite, Trinve, IMD43D (Fans also like)
+- **Influence Patterns**: Part of Indie-Alternative network
 
-## Künstler-Philosophie
-- **Musikstil**: Alternative/Indie mit emotionalen Themen
-- **Ansatz**: Introspektiv, selbstreflektierend
-- **Themen**: Regret, Selbstidentität, Popkultur (DISNEY)
-- **Community**: Verbindung zu "2late4hugs" Archiv
+## Artist Philosophy
+- **Music Style**: Alternative/Indie with emotional themes
+- **Approach**: Introspective, self-reflective
+- **Themes**: Regret, self-identity, pop culture (DISNEY)
+- **Community**: Connection to "2late4hugs" archive
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

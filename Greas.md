@@ -1,34 +1,34 @@
 # Greas
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 3iTHCsghQJOG1BUBHys5hl
 - **Spotify Link**: https://open.spotify.com/artist/3iTHCsghQJOG1BUBHys5hl
 - **Original Spotify-Link**: https://open.spotify.com/artist/3iTHCsghQJOG1BUBHys5hl?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 2,138 (erfasst: 26.02.2026 04:44)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Trap
-- **Popularität**: Mittel-Hoch (2.1K monatliche Hörer)
+- **Monthly Listeners**: 2,138 (captured: 26.02.2026 04:44)
+- **Followers**: Not available
+- **Genre**: German Rap/Trap
+- **Popularity**: Medium-High (2.1K monthly listeners)
 
-## Biografie
+## Biography
 "Fokus, Isolation, innere Konflikte, Hustle, Wien, 20y, experimentel, trap, @babygreas"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
 - **Instagram**: babygreas
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 04:44
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 04:44
 
-## Diskographie
-### Alben
+## Discography
+### Albums
 - TUNNELBLICK - Album
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - KAISER (Latest Release) - Single
@@ -41,36 +41,36 @@
 4. WOAHH (Explicit)
 5. Take It (Explicit)
 
-## Kollaborationen
+## Collaborations
 - Snowz (Greas Radio)
 - nightfvry (Greas Radio)
 - JONII (Greas Radio)
 - Cheekyteo (Fans also like)
 - CXDEX (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Greas" - kreativer, kurzer Name
-- **Themen**: Energie (GASOLINA), Atmosphäre (CLOUD), Luxus (Pricey), Überraschung (WOAHH), Aktion (Take It)
-- **Sprachmuster**: Deutsch mit englischen Elementen, aggressive Texte
-- **Zahlenmystik**: "20y" als Alters-Referenz
+## Patterns & Anomalies
+- **Name Conventions**: "Greas" - creative, short name
+- **Themes**: Energy (GASOLINA), atmosphere (CLOUD), luxury (Pricey), surprise (WOAHH), action (Take It)
+- **Language Patterns**: German with English elements, aggressive lyrics
+- **Number Mysticism**: "20y" as age reference
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 2,138 monatliche Hörer (realistisch für etablierten Indie-Künstler)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, organische Entwicklung
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 2,138 monthly listeners (realistic for established indie artist)
+- **Activity Patterns**: Regular releases, organic development
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Trap-Künstlern
-- **Genre-Cluster**: Deutschrap/Trap mit aggressiven Themen
-- **Verbindungs-Stärke**: Stark verbunden mit Cheekyteo, CXDEX (Fans also like)
-- **Influence-Patterns**: Teil des Trap/Underground Netzwerks
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar trap artists
+- **Genre Cluster**: German Rap/Trap with aggressive themes
+- **Connection Strength**: Strongly connected with Cheekyteo, CXDEX (Fans also like)
+- **Influence Patterns**: Part of Trap/Underground network
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap/Trap mit experimentellen Elementen
-- **Ansatz**: Fokussiert, isoliert ("Fokus, Isolation, innere Konflikte")
-- **Themen**: Energie, Atmosphäre, Luxus, Überraschung, Aktion
-- **Community**: Instagram-Präsenz, experimentelle Ästhetik
+## Artist Philosophy
+- **Music Style**: German Rap/Trap with experimental elements
+- **Approach**: Focused, isolated ("Fokus, Isolation, innere Konflikte")
+- **Themes**: Energy, atmosphere, luxury, surprise, action
+- **Community**: Instagram presence, experimental aesthetic
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

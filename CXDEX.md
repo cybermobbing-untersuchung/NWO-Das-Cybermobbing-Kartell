@@ -1,34 +1,34 @@
 # CXDEX
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 3JBVAX9nmfb5SeFNOfcokp
 - **Spotify Link**: https://open.spotify.com/artist/3JBVAX9nmfb5SeFNOfcokp
 - **Original Spotify-Link**: https://open.spotify.com/artist/3JBVAX9nmfb5SeFNOfcokp?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 1,113 (erfasst: 26.02.2026 04:42)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Trap
-- **Popularität**: Mittel (1.1K monatliche Hörer)
+- **Monthly Listeners**: 1,113 (captured: 26.02.2026 04:42)
+- **Followers**: Not available
+- **Genre**: German Rap/Trap
+- **Popularity**: Medium (1.1K monthly listeners)
 
-## Biografie
+## Biography
 "all moves as if foreseen, but red lights keep appearing, shadows that halt our wa¥¥¥"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 04:42
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 04:42
 
-## Diskographie
-### Alben
+## Discography
+### Albums
 - Red Lights (2025) - Album
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - Keys (Latest Release) - Single
@@ -41,7 +41,7 @@
 4. TT (feat. 2shiny, JShiny) (Explicit) - 2,274 Plays
 5. Keys (feat. JShiny, Lkc) (Explicit) - 1,342 Plays
 
-## Kollaborationen
+## Collaborations
 - HXDEX (SINNE TAUB, valley)
 - KlaaNuddn (SINNE TAUB)
 - THRE$H (Honest.)
@@ -53,29 +53,29 @@
 - croown (Fans also like)
 - esca (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "CXDEX" - technischer, kreativer Name
-- **Themen**: Wahrnehmung (SINNE TAUB), Ehrlichkeit (Honest.), Geografie (valley), Abkürzungen (TT), Zugang (Keys)
-- **Sprachmuster**: Deutsch mit experimentellen, philosophischen Elementen
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "CXDEX" - technical, creative name
+- **Themes**: Perception (SINNE TAUB), honesty (Honest.), geography (valley), abbreviations (TT), access (Keys)
+- **Language Patterns**: German with experimental, philosophical elements
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 1,113 monatliche Hörer bei 12,381+ Plays (realistisch für Indie-Künstler)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, organische Entwicklung
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 1,113 monthly listeners with 12,381+ plays (realistic for indie artist)
+- **Activity Patterns**: Regular releases, organic development
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Extrem hohe Kollaborations-Dichte mit HXDEX, JShiny
-- **Genre-Cluster**: Deutschrap/Trap mit experimentellen Themen
-- **Verbindungs-Stärke**: Stark verbunden mit JShiny, croown, esca (Fans also like)
-- **Influence-Patterns**: Teil des Experimental-Trap Netzwerks
+## Network Analysis
+- **Collaboration Density**: Extremely high collaboration density with HXDEX, JShiny
+- **Genre Cluster**: German Rap/Trap with experimental themes
+- **Connection Strength**: Strongly connected with JShiny, croown, esca (Fans also like)
+- **Influence Patterns**: Part of Experimental Trap network
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap/Trap mit experimentellen Elementen
-- **Ansatz**: Philosophisch, experimentell ("all moves as if foreseen")
-- **Themen**: Wahrnehmung, Ehrlichkeit, Geografie, Zugang
-- **Community**: Starke Kollaborations-Präsenz mit HXDEX, JShiny
+## Artist Philosophy
+- **Music Style**: German Rap/Trap with experimental elements
+- **Approach**: Philosophical, experimental ("all moves as if foreseen")
+- **Themes**: Perception, honesty, geography, access
+- **Community**: Strong collaboration presence with HXDEX, JShiny
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

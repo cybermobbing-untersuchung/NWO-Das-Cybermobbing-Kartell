@@ -1,31 +1,31 @@
 # MaRa
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 7JikCP2Bpwd0uXZXHRIzGe
 - **Spotify Link**: https://open.spotify.com/artist/7JikCP2Bpwd0uXZXHRIzGe
 - **Original Spotify-Link**: https://open.spotify.com/artist/7JikCP2Bpwd0uXZXHRIzGe?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 950 (erfasst: 26.02.2026 05:08)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Trap
-- **Popularität**: Niedrig-Mittel (950 monatliche Hörer)
+- **Monthly Listeners**: 950 (captured: 26.02.2026 05:08)
+- **Followers**: Not available
+- **Genre**: German Rap/Trap
+- **Popularity**: Low-Medium (950 monthly listeners)
 
-## Biografie
+## Biography
 "shoutout 🖤 business: iloveumara.business@gmail.com"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Business-Email verfügbar
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Business email available
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 05:08
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 05:08
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
 - Legendary (2020) - EP
@@ -39,7 +39,7 @@
 2. Alles ändert sich (feat. Yungnorfas, Icy) (Explicit) - 13,465 Plays
 3. bittersüß (Explicit) - 1,489 Plays
 
-## Kollaborationen
+## Collaborations
 - EliaZz (Feelings auf Eis)
 - Yungnorfas (Alles ändert sich)
 - Icy (Alles ändert sich)
@@ -50,29 +50,29 @@
 - Yungnorfas (Fans also like)
 - Constii (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "MaRa" - einfacher, kreativer Name
-- **Themen**: Emotionen (Feelings auf Eis, bittersüß), Veränderung (Alles ändert sich)
-- **Sprachmuster**: Deutsch mit emotionalen, metaphorischen Themen
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "MaRa" - simple, creative name
+- **Themes**: Emotions (Feelings auf Eis, bittersüß), change (Alles ändert sich)
+- **Language Patterns**: German with emotional, metaphorical themes
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 950 monatliche Hörer bei 17,485+ Plays (realistisch für Indie-Künstler)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, organische Entwicklung
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 950 monthly listeners with 17,485+ plays (realistic for indie artist)
+- **Activity Patterns**: Regular releases, organic development
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Trap-Künstlern
-- **Genre-Cluster**: Deutschrap/Trap mit emotionalen Themen
-- **Verbindungs-Stärke**: Stark verbunden mit Yungnorfas, KZZR, Constii (Fans also like)
-- **Influence-Patterns**: Teil des Trap/Underground Netzwerks
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar trap artists
+- **Genre Cluster**: German Rap/Trap with emotional themes
+- **Connection Strength**: Strongly connected with Yungnorfas, KZZR, Constii (Fans also like)
+- **Influence Patterns**: Part of Trap/Underground network
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap/Trap mit emotionalen Elementen
-- **Ansatz**: Geschäftlich, persönlich ("shoutout 🖤 business")
-- **Themen**: Emotionen, Veränderung
-- **Community**: Business-Präsenz, persönliche Verbindung
+## Artist Philosophy
+- **Music Style**: German Rap/Trap with emotional elements
+- **Approach**: Business-oriented, personal ("shoutout 🖤 business")
+- **Themes**: Emotions, change
+- **Community**: Business presence, personal connection
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

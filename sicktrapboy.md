@@ -1,34 +1,34 @@
 # sicktrapboy
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 1QYavgFpczBEjPbXGP7EDR
 - **Spotify Link**: https://open.spotify.com/artist/1QYavgFpczBEjPbXGP7EDR
 - **Original Spotify-Link**: https://open.spotify.com/artist/1QYavgFpczBEjPbXGP7EDR?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 489 (erfasst: 26.02.2026 05:10)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Trap
-- **Popularität**: Niedrig (489 monatliche Hörer)
+- **Monthly Listeners**: 489 (captured: 26.02.2026 05:10)
+- **Followers**: Not available
+- **Genre**: German Rap/Trap
+- **Popularity**: Low (489 monthly listeners)
 
-## Biografie
+## Biography
 "💭💭💭"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 05:10
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 05:10
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - keine Limits (Latest Release) - Single
@@ -40,7 +40,7 @@
 2. CANNABIS (feat. 2late4hugs) (Explicit) - 12,861 Plays
 3. ATEMNOT (Explicit) - 11,709 Plays
 
-## Kollaborationen
+## Collaborations
 - majin wav (HEARTBROKEN CHAIN)
 - 2late4hugs (CANNABIS)
 - Lytro (sicktrapboy Radio)
@@ -50,29 +50,29 @@
 - esca (Fans also like)
 - spleen (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "sicktrapboy" - direkter, genre-spezifischer Name
-- **Themen**: Drogen (CANNABIS), Emotionen (HEARTBROKEN CHAIN, ATEMNOT), Atmung (BREATH IN/OUT), Grenzen (keine Limits)
-- **Sprachmuster**: Deutsch mit englischen Elementen, direkte Themen
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "sicktrapboy" - direct, genre-specific name
+- **Themes**: Drugs (CANNABIS), emotions (HEARTBROKEN CHAIN, ATEMNOT), breathing (BREATH IN/OUT), limits (keine Limits)
+- **Language Patterns**: German with English elements, direct themes
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 489 monatliche Hörer bei 21,452+ Plays (realistisch für Indie-Künstler)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, organische Entwicklung
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 489 monthly listeners with 21,452+ plays (realistic for indie artist)
+- **Activity Patterns**: Regular releases, organic development
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Trap-Künstlern
-- **Genre-Cluster**: Deutschrap/Trap mit direkten Themen
-- **Verbindungs-Stärke**: Stark verbunden mit Yungnorfas, esca, spleen (Fans also like)
-- **Influence-Patterns**: Teil des Trap/Underground Netzwerks
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar trap artists
+- **Genre Cluster**: German Rap/Trap with direct themes
+- **Connection Strength**: Strongly connected with Yungnorfas, esca, spleen (Fans also like)
+- **Influence Patterns**: Part of Trap/Underground network
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap/Trap mit direkten Elementen
-- **Ansatz**: Nachdenklich, emotional ("💭💭💭")
-- **Themen**: Drogen, Emotionen, Atmung, Grenzen
-- **Community**: Nightfvry-Verbindung, emotionale Präsenz
+## Artist Philosophy
+- **Music Style**: German Rap/Trap with direct elements
+- **Approach**: Thoughtful, emotional ("💭💭💭")
+- **Themes**: Drugs, emotions, breathing, limits
+- **Community**: Nightfvry connection, emotional presence
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

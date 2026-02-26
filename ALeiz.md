@@ -1,30 +1,30 @@
 # ALeiz
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 5L3rnWFvr7aQwITnhWslDY
 - **Spotify Link**: https://open.spotify.com/artist/5L3rnWFvr7aQwITnhWslDY
 - **Original Spotify-Link**: https://open.spotify.com/artist/5L3rnWFvr7aQwITnhWslDY?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 1,556 (erfasst: 26.02.2026 01:50)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Experimental
-- **Popularität**: Mittel (1.6K monatliche Hörer)
+- **Monthly Listeners**: 1,556 (captured: 26.02.2026 01:50)
+- **Followers**: Not available
+- **Genre**: German Rap/Experimental
+- **Popularity**: Medium (1.6K monthly listeners)
 
-## Biografie
+## Biography
 "[self.produced] - wenn ein song etwas in dir auslöst, erzähl mir gerne davon (insta:: @aleizonme) 💕💕💕💕💕 ________________________ &&&&&// u can't k!ll me ;;,,, i survived self-destruction/////(()) --<< <> ///////::///// \"\"\"\" ##>>>>$!!´´ ____ ÷÷÷/ __________________________ __________ ___________ ___________________________________________ BTHA ANTIPODE"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
 - **Instagram**: https://instagram.com/aleizonme
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Self-produced Künstler
+- **Twitter**: Not found
+- **Other Social Media**: Self-produced artist
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 01:50
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 01:50
 
-## Diskographie
-### Alben
+## Discography
+### Albums
 - detaching from the ghost in your memories ==--!!"# (2023) - Album
 
 ### Singles
@@ -38,7 +38,7 @@
 4. lieber sterbe ich so als das nicht mehr zu fühlen //_ ==//- (Explicit) - 28,329 Plays
 5. Alles (feat. Artisblind) - 12,083 Plays
 
-## Kollaborationen
+## Collaborations
 - Artisblind (Alles)
 - Hello Hannes (ALeiz Radio)
 - Lostboy Luka (ALeiz Radio)
@@ -46,29 +46,29 @@
 - CLean (Fans also like)
 - KSIVVA (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "ALeiz" - gemischte Groß/Kleinschreibung, "ALEIZ - v2.0" als Evolution
-- **Themen**: Sehr dunkle, emotionale Themen (Selbstmord, Selbstzerstörung, Geister), farbige Metaphern (buntetränen)
-- **Sprachmuster**: Extrem experimentelle Track-Namen mit Sonderzeichen ::<>>+ ==--!!"#
-- **Zahlenmystik**: "v2.0" als Versionskonzept
+## Patterns & Anomalies
+- **Name Conventions**: "ALeiz" - mixed case, "ALEIZ - v2.0" as evolution
+- **Themes**: Very dark, emotional themes (suicide, self-destruction, ghosts), colorful metaphors (buntetränen)
+- **Language Patterns**: Extremely experimental track names with special characters ::<>>+ ==--!!"#
+- **Number Mysticism**: "v2.0" as version concept
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 1,556 monatliche Hörer bei 95,653+ Plays (extrem verdächtig, 1:61 Ratio)
-- **Aktivitäts-Muster**: Self-produced, regelmäßige Veröffentlichungen
-- **Bot-Indikatoren**: Extrem verdächtig durch hohe Plays bei geringen Hörern
-- **Künstliche Popularität**: Eher manipuliert als organisch
+## Manipulation Indicators
+- **Listener Count Anomalies**: 1,556 monthly listeners with 95,653+ plays (extremely suspicious, 1:61 ratio)
+- **Activity Patterns**: Self-produced, regular releases
+- **Bot Indicators**: Extremely suspicious due to high plays with low listeners
+- **Artificial Popularity**: Rather manipulated than organic
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit experimentellen Künstlern
-- **Genre-Cluster**: Deutschrap/Experimental mit Hyperpop-Elementen
-- **Verbindungs-Stärke**: Verbunden mit CLean, KSIVVA (Fans also like)
-- **Influence-Patterns**: Teil des deutschen Hyperpop-Netzwerks
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with experimental artists
+- **Genre Cluster**: German Rap/Experimental with hyperpop elements
+- **Connection Strength**: Connected with CLean, KSIVVA (Fans also like)
+- **Influence Patterns**: Part of German hyperpop network
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap/Experimental mit Hyperpop-Elementen
-- **Ansatz**: Extrem emotional, selbstzerstörerisch ("i survived self-destruction")
-- **Themen**: Tod, Selbstmord, Geister, emotionale Extremzustände
-- **Community**: Instagram-Präsenz, emotionale Verbindung zu Fans
+## Artist Philosophy
+- **Music Style**: German Rap/Experimental with hyperpop elements
+- **Approach**: Extremely emotional, self-destructive ("i survived self-destruction")
+- **Themes**: Death, suicide, ghosts, emotional extreme states
+- **Community**: Instagram presence, emotional connection to fans
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

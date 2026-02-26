@@ -1,31 +1,31 @@
 # Constii
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 0dSOiqqAAlN5PUogUHEQKr
 - **Spotify Link**: https://open.spotify.com/artist/0dSOiqqAAlN5PUogUHEQKr
 - **Original Spotify-Link**: https://open.spotify.com/artist/0dSOiqqAAlN5PUogUHEQKr?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 1,349 (erfasst: 26.02.2026 05:12)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Trap
-- **Popularität**: Mittel (1.3K monatliche Hörer)
+- **Monthly Listeners**: 1,349 (captured: 26.02.2026 05:12)
+- **Followers**: Not available
+- **Genre**: German Rap/Trap
+- **Popularity**: Medium (1.3K monthly listeners)
 
-## Biografie
+## Biography
 "17y. loopmaker"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 05:12
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 05:12
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
 - Blicke (2026) - EP
@@ -39,7 +39,7 @@
 2. DU - Remix (feat. va1e, 267Colin)
 3. DU - Instrumental
 
-## Kollaborationen
+## Collaborations
 - va1e (Blicke, DU - Remix)
 - 808TOSH (Blicke)
 - 267Colin (DU - Remix)
@@ -49,29 +49,29 @@
 - MaRa (Fans also like)
 - lued (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Constii" - kreativer, technischer Name
-- **Themen**: Wahrnehmung (Blicke), Beziehungen (DU)
-- **Sprachmuster**: Deutsch mit direkten, visuellen Themen
-- **Zahlenmystik**: "17y" als Alters-Referenz
+## Patterns & Anomalies
+- **Name Conventions**: "Constii" - creative, technical name
+- **Themes**: Perception (Blicke), relationships (DU)
+- **Language Patterns**: German with direct, visual themes
+- **Number Mysticism**: "17y" as age reference
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 1,349 monatliche Hörer (realistisch für Indie-Künstler)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, organische Entwicklung
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 1,349 monthly listeners (realistic for indie artist)
+- **Activity Patterns**: Regular releases, organic development
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Hohe Kollaborations-Dichte mit va1e
-- **Genre-Cluster**: Deutschrap/Trap mit visuellen Themen
-- **Verbindungs-Stärke**: Stark verbunden mit MaRa, lued (Fans also like)
-- **Influence-Patterns**: Teil des Trap/Underground Netzwerks
+## Network Analysis
+- **Collaboration Density**: High collaboration density with va1e
+- **Genre Cluster**: German Rap/Trap with visual themes
+- **Connection Strength**: Strongly connected with MaRa, lued (Fans also like)
+- **Influence Patterns**: Part of Trap/Underground network
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap/Trap mit visuellen Elementen
-- **Ansatz**: Jung, technisch ("17y. loopmaker")
-- **Themen**: Wahrnehmung, Beziehungen
-- **Community**: Va1e-Partnerschaft, visuelle Ästhetik
+## Artist Philosophy
+- **Music Style**: German Rap/Trap with visual elements
+- **Approach**: Young, technical ("17y. loopmaker")
+- **Themes**: Perception, relationships
+- **Community**: Va1e partnership, visual aesthetic
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

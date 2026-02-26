@@ -1,34 +1,34 @@
 # Dynon
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 14Cn0INMHCs4qmKWq3PK6j
 - **Spotify Link**: https://open.spotify.com/artist/14Cn0INMHCs4qmKWq3PK6j
 - **Original Spotify-Link**: https://open.spotify.com/artist/14Cn0INMHCs4qmKWq3PK6j?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 156 (erfasst: 26.02.2026 05:26)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Trap
-- **Popularität**: Extrem niedrig (156 monatliche Hörer)
+- **Monthly Listeners**: 156 (captured: 26.02.2026 05:26)
+- **Followers**: Not available
+- **Genre**: German Rap/Trap
+- **Popularity**: Extremely low (156 monthly listeners)
 
-## Biografie
-Keine Biografie verfügbar
+## Biography
+No biography available
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 05:26
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 05:26
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - SILENT HILL (Latest Release) - Single
@@ -42,7 +42,7 @@ Keine Biografie verfügbar
 4. SILENT HILL (Explicit)
 5. SYNTHETIC LOVE (Explicit)
 
-## Kollaborationen
+## Collaborations
 - maexem61 (Antidepressiva, Will Hier Weg)
 - Yungnorfas (Blister)
 - Icy (Blister)
@@ -53,29 +53,29 @@ Keine Biografie verfügbar
 - CLA$$Y (Fans also like)
 - Kid Pain (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Dynon" - technischer, kreativer Name
-- **Themen**: Psychopharmaka (Antidepressiva), Gaming (SILENT HILL), Zeit (3:50), Emotionen (Blister), Entfernung (Will Hier Weg), Liebe (SYNTHETIC LOVE)
-- **Sprachmuster**: Deutsch mit englischen Elementen, emotionale Themen
-- **Zahlenmystik**: "3:50" als Zeit-Referenz
+## Patterns & Anomalies
+- **Name Conventions**: "Dynon" - technical, creative name
+- **Themes**: Psychoactive drugs (Antidepressiva), gaming (SILENT HILL), time (3:50), emotions (Blister), departure (Will Hier Weg), love (SYNTHETIC LOVE)
+- **Language Patterns**: German with English elements, emotional themes
+- **Number Mysticism**: "3:50" as time reference
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 156 monatliche Hörer bei 3,640+ Plays (realistisch für Underground-Künstler)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, organische Entwicklung
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 156 monthly listeners with 3,640+ plays (realistic for underground artist)
+- **Activity Patterns**: Regular releases, organic development
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Hohe Kollaborations-Dichte mit maexem61
-- **Genre-Cluster**: Deutschrap/Trap mit emotionalen Themen
-- **Verbindungs-Stärke**: Stark verbunden mit rubenmachtsachen, CLA$$Y, Kid Pain (Fans also like)
-- **Influence-Patterns**: Teil des Trap/Underground Netzwerks
+## Network Analysis
+- **Collaboration Density**: High collaboration density with maexem61
+- **Genre Cluster**: German Rap/Trap with emotional themes
+- **Connection Strength**: Strongly connected with rubenmachtsachen, CLA$$Y, Kid Pain (Fans also like)
+- **Influence Patterns**: Part of Trap/Underground network
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap/Trap mit emotionalen Elementen
-- **Ansatz**: Emotional, thematisch
-- **Themen**: Psychopharmaka, Gaming, Zeit, Emotionen, Entfernung, Liebe
-- **Community**: maexem61-Partnerschaft, nightfvry-Verbindung
+## Artist Philosophy
+- **Music Style**: German Rap/Trap with emotional elements
+- **Approach**: Emotional, thematic
+- **Themes**: Psychoactive drugs, gaming, time, emotions, departure, love
+- **Community**: maexem61 partnership, nightfvry connection
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

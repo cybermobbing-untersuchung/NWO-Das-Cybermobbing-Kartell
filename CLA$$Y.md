@@ -1,34 +1,34 @@
 # CLA$$Y
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 37H8wdEtBCvncCuoTiTPJ7
 - **Spotify Link**: https://open.spotify.com/artist/37H8wdEtBCvncCuoTiTPJ7
 - **Original Spotify-Link**: https://open.spotify.com/artist/37H8wdEtBCvncCuoTiTPJ7?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 60 (erfasst: 26.02.2026 05:32)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Trap
-- **Popularität**: Extrem niedrig (60 monatliche Hörer)
+- **Monthly Listeners**: 60 (captured: 26.02.2026 05:32)
+- **Followers**: Not available
+- **Genre**: German Rap/Trap
+- **Popularity**: Extremely low (60 monthly listeners)
 
-## Biografie
+## Biography
 "@classyinvibe96"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
 - **Instagram**: classyinvibe96
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 05:32
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 05:32
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - Drive By (2025) - Single
@@ -41,7 +41,7 @@
 4. Weißer Rauch (feat. Jozar)
 5. Selbes Gift (Explicit)
 
-## Kollaborationen
+## Collaborations
 - DRGZ (Copperfield)
 - Jozar (Weißer Rauch)
 - D4VID777 (CLA$$Y Radio)
@@ -50,29 +50,29 @@
 - Lil Ivy (Fans also like)
 - misterymelv (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "CLA$$Y" - luxuriöser Name mit Dollar-Symbolen
-- **Themen**: Gewalt (Drive By), Magie (Copperfield), Erfolg (Till I Make It), Drogen (Weißer Rauch), Gift (Selbes Gift), Laster (Laster)
-- **Sprachmuster**: Deutsch mit englischen Elementen, luxuriöse Themen
-- **Zahlenmystik**: "96" in Instagram-Handle
+## Patterns & Anomalies
+- **Name Conventions**: "CLA$$Y" - luxurious name with dollar symbols
+- **Themes**: Violence (Drive By), magic (Copperfield), success (Till I Make It), drugs (Weißer Rauch), poison (Selbes Gift), vices (Laster)
+- **Language Patterns**: German with English elements, luxurious themes
+- **Number Mysticism**: "96" in Instagram handle
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 60 monatliche Hörer (realistisch für Underground-Künstler)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, organische Entwicklung
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 60 monthly listeners (realistic for underground artist)
+- **Activity Patterns**: Regular releases, organic development
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Trap-Künstlern
-- **Genre-Cluster**: Deutschrap/Trap mit luxuriösen Themen
-- **Verbindungs-Stärke**: Stark verbunden mit Lil Ivy, misterymelv (Fans also like)
-- **Influence-Patterns**: Teil des Trap/Underground Netzwerks
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar trap artists
+- **Genre Cluster**: German Rap/Trap with luxurious themes
+- **Connection Strength**: Strongly connected with Lil Ivy, misterymelv (Fans also like)
+- **Influence Patterns**: Part of Trap/Underground network
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap/Trap mit luxuriösen Elementen
-- **Ansatz**: Luxuriös, stilvoll ("classyinvibe96")
-- **Themen**: Gewalt, Magie, Erfolg, Drogen, Gift, Laster
-- **Community**: Instagram-Präsenz, luxuriöse Ästhetik
+## Artist Philosophy
+- **Music Style**: German Rap/Trap with luxurious elements
+- **Approach**: Luxurious, stylish ("classyinvibe96")
+- **Themes**: Violence, magic, success, drugs, poison, vices
+- **Community**: Instagram presence, luxurious aesthetic
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

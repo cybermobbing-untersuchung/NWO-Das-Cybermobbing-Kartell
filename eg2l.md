@@ -1,34 +1,34 @@
 # eg2l
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 4nBR4QPUF3OuMdQdxtmFoc
 - **Spotify Link**: https://open.spotify.com/artist/4nBR4QPUF3OuMdQdxtmFoc
 - **Original Spotify-Link**: https://open.spotify.com/artist/4nBR4QPUF3OuMdQdxtmFoc?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 279 (erfasst: 26.02.2026 05:20)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Trap
-- **Popularität**: Sehr niedrig (279 monatliche Hörer)
+- **Monthly Listeners**: 279 (captured: 26.02.2026 05:20)
+- **Followers**: Not available
+- **Genre**: German Rap/Trap
+- **Popularity**: Very low (279 monthly listeners)
 
-## Biografie
-Keine Biografie verfügbar
+## Biography
+No biography available
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 05:20
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 05:20
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - Mann über Bord (Latest Release) - Single
@@ -42,7 +42,7 @@ Keine Biografie verfügbar
 4. kleine Sterne (Explicit)
 5. Mann über Bord (Explicit)
 
-## Kollaborationen
+## Collaborations
 - Manic (wolkenkratzer, on god)
 - Luwoe Beats (on god)
 - D4VID777 (eg2l Radio)
@@ -52,29 +52,29 @@ Keine Biografie verfügbar
 - Leo 3D (Fans also like)
 - pasi (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "eg2l" - technischer, minimalistischer Name
-- **Themen**: Architektur (wolkenkratzer), Spiritualität (on god), Natur (Schaukel im Wind), Astronomie (kleine Sterne), Seefahrt (Mann über Bord)
-- **Sprachmuster**: Deutsch mit emotionalen, metaphorischen Themen
-- **Zahlenmystik**: "2l" als technisches Element
+## Patterns & Anomalies
+- **Name Conventions**: "eg2l" - technical, minimalist name
+- **Themes**: Architecture (wolkenkratzer), spirituality (on god), nature (Schaukel im Wind), astronomy (kleine Sterne), seafaring (Mann über Bord)
+- **Language Patterns**: German with emotional, metaphorical themes
+- **Number Mysticism**: "2l" as technical element
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 279 monatliche Hörer bei 5,100+ Plays (realistisch für Indie-Künstler)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, organische Entwicklung
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 279 monthly listeners with 5,100+ plays (realistic for indie artist)
+- **Activity Patterns**: Regular releases, organic development
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Extrem hohe Kollaborations-Dichte mit Manic
-- **Genre-Cluster**: Deutschrap/Trap mit metaphorischen Themen
-- **Verbindungs-Stärke**: Stark verbunden mit Manic, Leo 3D, pasi (Fans also like)
-- **Influence-Patterns**: Teil des Trap/Underground Netzwerks
+## Network Analysis
+- **Collaboration Density**: Extremely high collaboration density with Manic
+- **Genre Cluster**: German Rap/Trap with metaphorical themes
+- **Connection Strength**: Strongly connected with Manic, Leo 3D, pasi (Fans also like)
+- **Influence Patterns**: Part of Trap/Underground network
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap/Trap mit metaphorischen Elementen
-- **Ansatz**: Minimalistisch, technisch
-- **Themen**: Architektur, Spiritualität, Natur, Astronomie, Seefahrt
-- **Community**: Manic-Partnerschaft, Radio-Verbindungen
+## Artist Philosophy
+- **Music Style**: German Rap/Trap with metaphorical elements
+- **Approach**: Minimalist, technical
+- **Themes**: Architecture, spirituality, nature, astronomy, seafaring
+- **Community**: Manic partnership, radio connections
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

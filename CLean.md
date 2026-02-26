@@ -1,34 +1,34 @@
 # CLean
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 3DBm5RY0GZVqGBWKxUXFps
 - **Spotify Link**: https://open.spotify.com/artist/3DBm5RY0GZVqGBWKxUXFps
 - **Original Spotify-Link**: https://open.spotify.com/artist/3DBm5RY0GZVqGBWKxUXFps?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 2,345 (erfasst: 26.02.2026 04:06)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Hyperpop
-- **Popularität**: Mittel-Hoch (2.3K monatliche Hörer)
+- **Monthly Listeners**: 2,345 (captured: 26.02.2026 04:06)
+- **Followers**: Not available
+- **Genre**: German Rap/Hyperpop
+- **Popularity**: Medium-High (2.3K monthly listeners)
 
-## Biografie
+## Biography
 "stay sober"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 04:06
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 04:06
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - renn weg (Remix) (Latest Release) - Single
@@ -40,7 +40,7 @@
 3. IMMER WIEDER (feat. stepgod)
 4. MEINE MUTTER FINDET`S GARNICHT GUT (feat. Hello Hannes) (Explicit)
 
-## Kollaborationen
+## Collaborations
 - t-low (ON THE ROAD)
 - Hello Hannes (KISS ME ON COKE, MEINE MUTTER FINDET`S GARNICHT GUT)
 - stepgod (IMMER WIEDER)
@@ -49,29 +49,29 @@
 - ALeiz (Fans also like)
 - Mobezzy (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "CLean" - englischer Name mit "Clean" Referenz
-- **Themen**: Reisen (ON THE ROAD), Drogen (KISS ME ON COKE), Wiederholung (IMMER WIEDER), Familie (MEINE MUTTER FINDET`S GARNICHT GUT)
-- **Sprachmuster**: Deutsch mit englischen Elementen, direkte Texte
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "CLean" - English name with "Clean" reference
+- **Themes**: Travel (ON THE ROAD), drugs (KISS ME ON COKE), repetition (IMMER WIEDER), family (MEINE MUTTER FINDET`S GARNICHT GUT)
+- **Language Patterns**: German with English elements, direct lyrics
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 2,345 monatliche Hörer (realistisch für etablierten Indie-Künstler)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, organische Entwicklung
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 2,345 monthly listeners (realistic for established indie artist)
+- **Activity Patterns**: Regular releases, organic development
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Hyperpop-Künstlern
-- **Genre-Cluster**: Deutschrap/Hyperpop mit direkten Themen
-- **Verbindungs-Stärke**: Stark verbunden mit ALeiz, Mobezzy (Fans also like)
-- **Influence-Patterns**: Teil des deutschen Hyperpop-Netzwerks
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar hyperpop artists
+- **Genre Cluster**: German Rap/Hyperpop with direct themes
+- **Connection Strength**: Strongly connected with ALeiz, Mobezzy (Fans also like)
+- **Influence Patterns**: Part of German hyperpop network
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap/Hyperpop mit direkten Themen
-- **Ansatz**: Direkt, ungeschönt ("stay sober")
-- **Themen**: Reisen, Drogen, Familie, Wiederholung
-- **Community**: Starke Kollaborations-Präsenz mit Hello Hannes
+## Artist Philosophy
+- **Music Style**: German Rap/Hyperpop with direct themes
+- **Approach**: Direct, unfiltered ("stay sober")
+- **Themes**: Travel, drugs, family, repetition
+- **Community**: Strong collaboration presence with Hello Hannes
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

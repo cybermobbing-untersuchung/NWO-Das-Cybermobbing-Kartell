@@ -1,34 +1,34 @@
 # $aro
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 0z0He0MHm8m5eeX2pxBQhU
 - **Spotify Link**: https://open.spotify.com/artist/0z0He0MHm8m5eeX2pxBQhU
 - **Original Spotify-Link**: https://open.spotify.com/artist/0z0He0MHm8m5eeX2pxBQhU?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 11 (erfasst: 26.02.2026 03:00)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 11 (captured: 26.02.2026 03:00)
+- **Followers**: Not available
 - **Genre**: Emo Rap/Alternative
-- **Popularität**: Extrem niedrig (11 monatliche Hörer)
+- **Popularity**: Extremely low (11 monthly listeners)
 
-## Biografie
+## Biography
 "keep your head up and know you're beautiful :)"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 03:00
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 03:00
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - Erase (2021) - Single
@@ -42,7 +42,7 @@
 4. Reusable (feat. Lil Soda Boi) (Explicit)
 5. Erase (Explicit)
 
-## Kollaborationen
+## Collaborations
 - scum
 - Lil Soda Boi
 - BBY GOYARD
@@ -53,29 +53,29 @@
 - Raw Roach
 - staxy
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "$aro" - Dollar-Symbol als Name
-- **Themen**: Dunkle Themen ("Leeches and Rats", "Waste"), existenzielle Themen ("Erase", "Reusable")
-- **Sprachmuster**: Englisch mit emotionalen, düsteren Texten
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "$aro" - Dollar symbol as name
+- **Themes**: Dark themes ("Leeches and Rats", "Waste"), existential themes ("Erase", "Reusable")
+- **Language Patterns**: English with emotional, dark lyrics
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 11 monatliche Hörer bei 12,944 Plays (extrem verdächtig)
-- **Aktivitäts-Muster**: Singles bei minimaler Reichweite
-- **Bot-Indikatoren**: Hohe Play-Zahlen bei fast nicht existenten Hörern deutet stark auf Bot-Aktivität hin
-- **Künstliche Popularität**: Extrem verdächtiges Verhältnis zwischen Plays und Hörern
+## Manipulation Indicators
+- **Listener Count Anomalies**: 11 monthly listeners with 12,944 plays (extremely suspicious)
+- **Activity Patterns**: Singles with minimal reach
+- **Bot Indicators**: High play counts with almost non-existent listeners strongly indicates bot activity
+- **Artificial Popularity**: Extremely suspicious ratio between plays and listeners
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Low-Count-Künstlern
-- **Genre-Cluster**: Emo Rap mit düsteren Themen
-- **Verbindungs-Stärke**: Schwache Verbindungen, aber Teil des "Fans also like" Clusters
-- **Influence-Patterns**: Minimaler Einfluss, aber potenzielle Bot-Cluster-Bildung
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar low-count artists
+- **Genre Cluster**: Emo Rap with dark themes
+- **Connection Strength**: Weak connections, but part of "Fans also like" cluster
+- **Influence Patterns**: Minimal influence, but potential bot cluster formation
 
-## Künstler-Philosophie
-- **Musikstil**: Emo Rap mit düsteren Themen
-- **Ansatz**: Positive Botschaft ("keep your head up and know you're beautiful")
-- **Themen**: Kontrast zwischen positiver Bio und düsteren Tracks
-- **Community**: Verbindung durch positive Botschaft
+## Artist Philosophy
+- **Music Style**: Emo Rap with dark themes
+- **Approach**: Positive message ("keep your head up and know you're beautiful")
+- **Themes**: Contrast between positive bio and dark tracks
+- **Community**: Connection through positive message
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

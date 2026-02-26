@@ -1,34 +1,34 @@
 # lued
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 1ox2XmOu8pt5pK40JB61ls
 - **Spotify Link**: https://open.spotify.com/artist/1ox2XmOu8pt5pK40JB61ls
 - **Original Spotify-Link**: https://open.spotify.com/artist/1ox2XmOu8pt5pK40JB61ls?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 961 (erfasst: 26.02.2026 05:14)
-- **Followers**: Nicht verfügbar
-- **Genre**: Indie/Elektro-Pop, Deutschrap
-- **Popularität**: Niedrig-Mittel (961 monatliche Hörer)
+- **Monthly Listeners**: 961 (captured: 26.02.2026 05:14)
+- **Followers**: Not available
+- **Genre**: Indie/Electro-Pop, German Rap
+- **Popularity**: Low-Medium (961 monthly listeners)
 
-## Biografie
+## Biography
 "lued ist ein Independent-Musiker, der seine Musik über Streaming-Plattformen veröffentlicht. Sein Stil bewegt sich zwischen Indie- und Elektro-Pop und ist geprägt von atmosphärischen Sounds und melancholischen, persönlichen Texten. socials: @lued39"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
 - **Instagram**: lued39
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 05:14
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 05:14
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - run away (Latest Release) - Single
@@ -42,7 +42,7 @@
 4. hasselbach (feat. Maze116) (Explicit)
 5. letzter sommer (feat. Maze116) (Explicit)
 
-## Kollaborationen
+## Collaborations
 - Maze116 (Durch die Nacht, hasselbach, letzter sommer)
 - D4VID777 (lued Radio, lued Mix)
 - Yung OS (lued Radio)
@@ -51,29 +51,29 @@
 - EtN (Fans also like)
 - Manic (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "lued" - minimalistischer, kreativer Name
-- **Themen**: Flucht (run away), Farben (DUNKELBLAU), Zeit (Durch die Nacht), Orte (hasselbach), Jahreszeiten (letzter sommer)
-- **Sprachmuster**: Deutsch mit emotionalen, atmosphärischen Themen
-- **Zahlenmystik**: "39" in Instagram-Handle
+## Patterns & Anomalies
+- **Name Conventions**: "lued" - minimalist, creative name
+- **Themes**: Escape (run away), colors (DUNKELBLAU), time (Durch die Nacht), places (hasselbach), seasons (letzter sommer)
+- **Language Patterns**: German with emotional, atmospheric themes
+- **Number Mysticism**: "39" in Instagram handle
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 961 monatliche Hörer bei 5,250+ Plays (realistisch für Indie-Künstler)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, organische Entwicklung
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 961 monthly listeners with 5,250+ plays (realistic for indie artist)
+- **Activity Patterns**: Regular releases, organic development
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Hohe Kollaborations-Dichte mit Maze116
-- **Genre-Cluster**: Indie/Elektro-Pop mit melancholischen Themen
-- **Verbindungs-Stärke**: Stark verbunden mit Constii, EtN, Manic (Fans also like)
-- **Influence-Patterns**: Teil des Indie/Underground Netzwerks
+## Network Analysis
+- **Collaboration Density**: High collaboration density with Maze116
+- **Genre Cluster**: Indie/Electro-Pop with melancholic themes
+- **Connection Strength**: Strongly connected with Constii, EtN, Manic (Fans also like)
+- **Influence Patterns**: Part of Indie/Underground network
 
-## Künstler-Philosophie
-- **Musikstil**: Indie/Elektro-Pop mit atmosphärischen Sounds
-- **Ansatz**: Independent, persönlich ("atmosphärische Sounds und melancholischen, persönlichen Texten")
-- **Themen**: Flucht, Farben, Zeit, Orte, Jahreszeiten
-- **Community**: Instagram-Präsenz, Independent-Ästhetik
+## Artist Philosophy
+- **Music Style**: Indie/Electro-Pop with atmospheric sounds
+- **Approach**: Independent, personal ("atmosphärische Sounds und melancholischen, persönlichen Texten")
+- **Themes**: Escape, colors, time, places, seasons
+- **Community**: Instagram presence, independent aesthetic
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

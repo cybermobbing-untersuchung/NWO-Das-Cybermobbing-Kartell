@@ -1,30 +1,30 @@
 # 249icey
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 74UvzVON0Iztu0ZUeYHrPi
 - **Spotify Link**: https://open.spotify.com/artist/74UvzVON0Iztu0ZUeYHrPi
 - **Original Spotify-Link**: https://open.spotify.com/artist/74UvzVON0Iztu0ZUeYHrPi?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 96 (erfasst: 26.02.2026 01:28)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 96 (captured: 26.02.2026 01:28)
+- **Followers**: Not available
 - **Genre**: Phonk/Electronic
-- **Popularität**: Niedrig (96 monatliche Hörer)
+- **Popularity**: Low (96 monthly listeners)
 
-## Biografie
+## Biography
 "Yo i'm icey and i love making music lol follow on insta: https://instagram.com/young_icey249?igshid=YTQwZjQ0NmI0OA=="
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
 - **Instagram**: https://instagram.com/young_icey249?igshid=YTQwZjQ0NmI0OA==
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Spotify-Playlist "phonk favs" gefunden
+- **Twitter**: Not found
+- **Other Social Media**: Spotify playlist "phonk favs" found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 01:28
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 01:28
 
-## Diskographie
-### Alben
+## Discography
+### Albums
 - Bass boosted compilation (Bass Boosted Versions) (2024) - Album
 
 ### Singles
@@ -38,35 +38,35 @@
 4. RAYQUAZA - 2:19
 5. Killa (Freestyle)
 
-## Kollaborationen
+## Collaborations
 - lylyth (Orkan)
 - Tani ReD (249icey Radio)
 - sleepy6ixteen (249icey Radio)
 - LilYung BlueOxxy (249icey Radio)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "249icey" - Zahlenkombination mit Adjektiv
-- **Themen**: Pokémon-Namen (RAYQUAZA, RESHiRAM, REGiGiGAS), Natur-Phänomene (Orkan)
-- **Sprachmuster**: Englisch mit informellem Stil ("lol")
-- **Zahlenmystik**: "249" als Teil des Namens
+## Patterns & Anomalies
+- **Name Conventions**: "249icey" - Number combination with adjective
+- **Themes**: Pokémon names (RAYQUAZA, RESHiRAM, REGiGiGAS), natural phenomena (Orkan)
+- **Language Patterns**: English with informal style ("lol")
+- **Number Mysticism**: "249" as part of name
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 96 monatliche Hörer bei moderaten Play-Zahlen (normal für Indie-Künstler)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, organische Aktivität
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 96 monthly listeners with moderate play counts (normal for indie artist)
+- **Activity Patterns**: Regular releases, organic activity
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Phonk-Künstlern
-- **Genre-Cluster**: Phonk/Electronic mit Pokémon-Themen
-- **Verbindungs-Stärke**: Verbindung zu Raidex, kolp (Fans also like)
-- **Influence-Patterns**: Teil des Phonk-Netzwerks
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar Phonk artists
+- **Genre Cluster**: Phonk/Electronic with Pokémon themes
+- **Connection Strength**: Connection to Raidex, kolp (Fans also like)
+- **Influence Patterns**: Part of Phonk network
 
-## Künstler-Philosophie
-- **Musikstil**: Phonk/Electronic mit Pokémon-Referenzen
-- **Ansatz**: Informell, leidenschaftlich ("love making music lol")
-- **Themen**: Popkultur, Natur-Phänomene
-- **Community**: Aktive Instagram-Präsenz
+## Artist Philosophy
+- **Music Style**: Phonk/Electronic with Pokémon references
+- **Approach**: Informal, passionate ("love making music lol")
+- **Themes**: Pop culture, natural phenomena
+- **Community**: Active Instagram presence
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

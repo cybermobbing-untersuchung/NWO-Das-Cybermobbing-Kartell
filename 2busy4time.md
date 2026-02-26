@@ -1,67 +1,67 @@
 # 2busy4time
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 62K3jMLOEzCzT1RBACwKCc
 - **Spotify Link**: https://open.spotify.com/artist/62K3jMLOEzCzT1RBACwKCc
 - **Original Spotify-Link**: https://open.spotify.com/artist/62K3jMLOEzCzT1RBACwKCc?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 0 (erfasst: 26.02.2026 01:30)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Trap
-- **Popularität**: Inaktiv (0 monatliche Hörer)
+- **Monthly Listeners**: 0 (captured: 26.02.2026 01:30)
+- **Followers**: Not available
+- **Genre**: German Rap/Trap
+- **Popularity**: Inactive (0 monthly listeners)
 
-## Biografie
+## Biography
 "Deine hoe hört mich auf Dauerschleife, kann nicht sein? Wenn mir kalt ist schütt ich Lean in meine Fanta rein"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Spotify-Playlist "Wer ist $nix $nus?" gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Spotify playlist "Wer ist $nix $nus?" found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 01:30
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 01:30
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### Singles
-- Keine Singles verfügbar
+- No singles available
 
 ### Popular Tracks (Top 10)
-- Keine Tracks verfügbar
+- No tracks available
 
-## Künstler Playlists
+## Artist Playlists
 - Wer ist $nix $nus? - "Die Sonne geht unter und mein Herz gehört dir <3"
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: Zahlen-basierte Namensstruktur "2busy4time"
-- **Themen**: Zeitdruck, Business-Mentalität ("zu beschäftigt für Zeit")
-- **Sprachmuster**: Englisch-Deutsch-Mix
-- **Zahlenmystik**: Präfix "2" könnte Alter oder Sequenz bedeuten
+## Patterns & Anomalies
+- **Name Conventions**: Number-based name structure "2busy4time"
+- **Themes**: Time pressure, business mentality ("too busy for time")
+- **Language Patterns**: English-German mix
+- **Number Mysticism**: Prefix "2" could mean age or sequence
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 0 monatliche Hörer bei aktivem Profil (verdächtig)
-- **Aktivitäts-Muster**: Keine neuen Releases seit langer Zeit
-- **Bot-Indikatoren**: Minimaler Content, aber existierendes Profil
-- **Künstliche Popularität**: Inaktivität bei 0 Hörern deutet auf Bot oder inaktiven Account hin
+## Manipulation Indicators
+- **Listener Count Anomalies**: 0 monthly listeners with active profile (suspicious)
+- **Activity Patterns**: No new releases for a long time
+- **Bot Indicators**: Minimal content, but existing profile
+- **Artificial Popularity**: Inactivity with 0 listeners suggests bot or inactive account
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Keine nachweisbaren Kollaborationen
-- **Genre-Cluster**: Deutschrap (isoliert)
-- **Verbindungs-Stärke**: Verbindung zu Xam651, REDLION, Songenki (2busy4time Radio)
-- **Influence-Patterns**: Kein nachweisbarer Einfluss
+## Network Analysis
+- **Collaboration Density**: No detectable collaborations
+- **Genre Cluster**: German Rap (isolated)
+- **Connection Strength**: Connection to Xam651, REDLION, Songenki (2busy4time Radio)
+- **Influence Patterns**: No detectable influence
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap/Trap
-- **Ansatz**: Provokant, selbstbewusst ("Deine hoe hört mich auf Dauerschleife")
-- **Themen**: Business, Drogen-Kultur (Lean in Fanta)
-- **Community**: Emotionale Playlist-Titel ("Die Sonne geht unter und mein Herz gehört dir <3")
+## Artist Philosophy
+- **Music Style**: German Rap/Trap
+- **Approach**: Provocative, confident ("Deine hoe hört mich auf Dauerschleife")
+- **Themes**: Business, drug culture (Lean in Fanta)
+- **Community**: Emotional playlist titles ("Die Sonne geht unter und mein Herz gehört dir <3")
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

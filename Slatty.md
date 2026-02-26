@@ -1,34 +1,34 @@
 # Slatty
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 4qGtC145sIuxNGbD4j71Pu
 - **Spotify Link**: https://open.spotify.com/artist/4qGtC145sIuxNGbD4j71Pu
 - **Original Spotify-Link**: https://open.spotify.com/artist/4qGtC145sIuxNGbD4j71Pu?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 6,388 (erfasst: 26.02.2026 04:12)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Hyperpop
-- **Popularität**: Hoch (6.4K monatliche Hörer)
+- **Monthly Listeners**: 6,388 (captured: 26.02.2026 04:12)
+- **Followers**: Not available
+- **Genre**: German Rap/Hyperpop
+- **Popularity**: High (6.4K monthly listeners)
 
-## Biografie
+## Biography
 "SL!MEW!RE スライムワイヤー"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 04:12
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 04:12
 
-## Diskographie
-### Alben
+## Discography
+### Albums
 - GUiTAR CHRONiCLES (2024) - Album
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - CHIMA2013 (Latest Release) - Single
@@ -40,7 +40,7 @@
 4. PHΛRΛO (Explicit)
 5. NVM (Explicit)
 
-## Kollaborationen
+## Collaborations
 - Yatsu (Midnight Club, SUPER S0NiC)
 - luu (KLOPF KLOPF)
 - Mobezzy (Slatty Radio)
@@ -48,29 +48,29 @@
 - Mobezzy (Fans also like)
 - NYAR (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Slatty" - moderner, kreativer Name
-- **Themen**: Nacht (Midnight Club, Ghost Girl), Gewalt (KLOPF KLOPF), griechische Mythologie (PHΛRΛO), Abkürzungen (NVM)
-- **Sprachmuster**: Deutsch mit japanischen Elementen (スライムワイヤー), aggressive Texte
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "Slatty" - modern, creative name
+- **Themes**: Night (Midnight Club, Ghost Girl), violence (KLOPF KLOPF), Greek mythology (PHΛRΛO), abbreviations (NVM)
+- **Language Patterns**: German with Japanese elements (スライムワイヤー), aggressive lyrics
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 6,388 monatliche Hörer (realistisch für erfolgreichen Indie-Künstler)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, hohe Popularität
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 6,388 monthly listeners (realistic for successful indie artist)
+- **Activity Patterns**: Regular releases, high popularity
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Hyperpop-Künstlern
-- **Genre-Cluster**: Deutschrap/Hyperpop mit aggressiven Themen
-- **Verbindungs-Stärke**: Stark verbunden mit Mobezzy, NYAR (Fans also like)
-- **Influence-Patterns**: Teil des GERMAN SCENECORE/HYPERPOP Netzwerks
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar hyperpop artists
+- **Genre Cluster**: German Rap/Hyperpop with aggressive themes
+- **Connection Strength**: Strongly connected with Mobezzy, NYAR (Fans also like)
+- **Influence Patterns**: Part of GERMAN SCENECORE/HYPERPOP network
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap/Hyperpop mit aggressiven Elementen
-- **Ansatz**: Modern, japanisch beeinflusst ("SL!MEW!RE スライムワイヤー")
-- **Themen**: Nacht, Gewalt, Mythologie, Abkürzungen
-- **Community**: Starke Kollaborations-Präsenz mit Yatsu, luu
+## Artist Philosophy
+- **Music Style**: German Rap/Hyperpop with aggressive elements
+- **Approach**: Modern, Japanese-influenced ("SL!MEW!RE スライムワイヤー")
+- **Themes**: Night, violence, mythology, abbreviations
+- **Community**: Strong collaboration presence with Yatsu, luu
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

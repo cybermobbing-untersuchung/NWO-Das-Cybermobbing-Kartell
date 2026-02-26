@@ -1,34 +1,34 @@
 # wilson100k
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 2FfLqL02eDpx7kj51F6pqb
 - **Spotify Link**: https://open.spotify.com/artist/2FfLqL02eDpx7kj51F6pqb
 - **Original Spotify-Link**: https://open.spotify.com/artist/2FfLqL02eDpx7kj51F6pqb?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 12,969 (erfasst: 26.02.2026 04:10)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Hyperpop
-- **Popularität**: Sehr hoch (13K monatliche Hörer)
+- **Monthly Listeners**: 12,969 (captured: 26.02.2026 04:10)
+- **Followers**: Not available
+- **Genre**: German Rap/Hyperpop
+- **Popularity**: Very high (13K monthly listeners)
 
-## Biografie
-Keine Biografie verfügbar
+## Biography
+No biography available
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 04:10
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 04:10
 
-## Diskographie
-### Alben
+## Discography
+### Albums
 - TEENAGE RAGE (2025) - Album
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - MACH WAS DU WILLST (Latest Release) - Single
@@ -41,7 +41,7 @@ Keine Biografie verfügbar
 4. TEENAGE RAGE (SPED UP) (feat. Mobezzy) (Explicit) - 269,595 Plays
 5. MACH WAS DU WILLST (Explicit) - 4,592 Plays
 
-## Kollaborationen
+## Collaborations
 - Mobezzy (TEENAGE RAGE, SIE LIEBT MICH NICHT, TEENAGE DISTANCE, TEENAGE RAGE (SPED UP))
 - Lostboy Luka (wilson100k Radio)
 - headless_DATA (wilson100k Radio)
@@ -50,29 +50,29 @@ Keine Biografie verfügbar
 - NYAR (Fans also like)
 - Laer Xirtam (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "wilson100k" - Zahlen-basierter Name mit "100k"
-- **Themen**: Teenager-Probleme (TEENAGE RAGE, TEENAGE DISTANCE), Liebe (SIE LIEBT MICH NICHT), Freiheit (MACH WAS DU WILLST)
-- **Sprachmuster**: Deutsch mit emotionalen, jugendlichen Themen
-- **Zahlenmystik**: "100k" als Namensbestandteil
+## Patterns & Anomalies
+- **Name Conventions**: "wilson100k" - Number-based name with "100k"
+- **Themes**: Teenager problems (TEENAGE RAGE, TEENAGE DISTANCE), love (SIE LIEBT MICH NICHT), freedom (MACH WAS DU WILLST)
+- **Language Patterns**: German with emotional, youth themes
+- **Number Mysticism**: "100k" as name component
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 12,969 monatliche Hörer bei 995K+ Plays (realistisch für erfolgreichen Indie-Künstler)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, sehr hohe Popularität
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 12,969 monthly listeners with 995K+ plays (realistic for successful indie artist)
+- **Activity Patterns**: Regular releases, very high popularity
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Extrem hohe Kollaborations-Dichte mit Mobezzy
-- **Genre-Cluster**: Deutschrap/Hyperpop mit jugendlichen Themen
-- **Verbindungs-Stärke**: Stark verbunden mit Mobezzy, NYAR, Laer Xirtam (Fans also like)
-- **Influence-Patterns**: Teil des GERMAN SCENECORE/HYPERPOP Netzwerks
+## Network Analysis
+- **Collaboration Density**: Extremely high collaboration density with Mobezzy
+- **Genre Cluster**: German Rap/Hyperpop with youth themes
+- **Connection Strength**: Strongly connected with Mobezzy, NYAR, Laer Xirtam (Fans also like)
+- **Influence Patterns**: Part of GERMAN SCENECORE/HYPERPOP network
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap/Hyperpop mit jugendlichen Themen
-- **Ansatz**: Emotional, jugendlich, freiheitlich
-- **Themen**: Teenager-Probleme, Liebe, Freiheit
-- **Community**: Starke Kollaborations-Präsenz mit Mobezzy
+## Artist Philosophy
+- **Music Style**: German Rap/Hyperpop with youth themes
+- **Approach**: Emotional, youthful, freedom-focused
+- **Themes**: Teenager problems, love, freedom
+- **Community**: Strong collaboration presence with Mobezzy
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

@@ -1,34 +1,34 @@
 # Leo 3D
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 6YtRgNAsB60YnP2pzDWqgM
 - **Spotify Link**: https://open.spotify.com/artist/6YtRgNAsB60YnP2pzDWqgM
 - **Original Spotify-Link**: https://open.spotify.com/artist/6YtRgNAsB60YnP2pzDWqgM?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 60 (erfasst: 26.02.2026 05:22)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Trap
-- **Popularität**: Extrem niedrig (60 monatliche Hörer)
+- **Monthly Listeners**: 60 (captured: 26.02.2026 05:22)
+- **Followers**: Not available
+- **Genre**: German Rap/Trap
+- **Popularity**: Extremely low (60 monthly listeners)
 
-## Biografie
+## Biography
 "ich hab' felicia dabei."
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 05:22
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 05:22
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - BLACK CAT (Latest Release) - Single
@@ -42,7 +42,7 @@
 4. KLEINER PRINZ (feat. danny2k) - 1,594 Plays
 5. BLACK CAT
 
-## Kollaborationen
+## Collaborations
 - danny2k (LEER, KLEINER PRINZ, Bilder)
 - Unb4lance1 (Leo 3D Radio)
 - D4VID777 (Leo 3D Radio)
@@ -51,29 +51,29 @@
 - someartistnamedAny (Fans also like)
 - Dynon (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Leo 3D" - technischer, futuristischer Name
-- **Themen**: Tiere (BLACK CAT), Leere (LEER), Rockstar-Lifestyle (ROCKSTAR), Literatur (KLEINER PRINZ), visuelle Medien (Bilder), soziale Orte (BAR)
-- **Sprachmuster**: Deutsch mit englischen Elementen, visuelle Themen
-- **Zahlenmystik**: "3D" als technologische Referenz
+## Patterns & Anomalies
+- **Name Conventions**: "Leo 3D" - technical, futuristic name
+- **Themes**: Animals (BLACK CAT), emptiness (LEER), rockstar lifestyle (ROCKSTAR), literature (KLEINER PRINZ), visual media (Bilder), social places (BAR)
+- **Language Patterns**: German with English elements, visual themes
+- **Number Mysticism**: "3D" as technological reference
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 60 monatliche Hörer bei 4,695+ Plays (realistisch für Underground-Künstler)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, organische Entwicklung
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 60 monthly listeners with 4,695+ plays (realistic for underground artist)
+- **Activity Patterns**: Regular releases, organic development
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Hohe Kollaborations-Dichte mit danny2k
-- **Genre-Cluster**: Deutschrap/Trap mit visuellen Themen
-- **Verbindungs-Stärke**: Stark verbunden mit tw1nna, someartistnamedAny, Dynon (Fans also like)
-- **Influence-Patterns**: Teil des Trap/Underground Netzwerks
+## Network Analysis
+- **Collaboration Density**: High collaboration density with danny2k
+- **Genre Cluster**: German Rap/Trap with visual themes
+- **Connection Strength**: Strongly connected with tw1nna, someartistnamedAny, Dynon (Fans also like)
+- **Influence Patterns**: Part of Trap/Underground network
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap/Trap mit visuellen Elementen
-- **Ansatz**: Persönlich, humorvoll ("ich hab' felicia dabei")
-- **Themen**: Tiere, Leere, Rockstar-Lifestyle, Literatur, visuelle Medien
-- **Community**: danny2k-Partnerschaft, nightfvry-Verbindung
+## Artist Philosophy
+- **Music Style**: German Rap/Trap with visual elements
+- **Approach**: Personal, humorous ("ich hab' felicia dabei")
+- **Themes**: Animals, emptiness, rockstar lifestyle, literature, visual media
+- **Community**: danny2k partnership, nightfvry connection
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

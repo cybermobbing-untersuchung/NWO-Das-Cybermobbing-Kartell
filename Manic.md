@@ -1,34 +1,34 @@
 # Manic
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 2eBOgMHGDrLgfgFlFrT05G
 - **Spotify Link**: https://open.spotify.com/artist/2eBOgMHGDrLgfgFlFrT05G
 - **Original Spotify-Link**: https://open.spotify.com/artist/2eBOgMHGDrLgfgFlFrT05G?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 652 (erfasst: 26.02.2026 05:18)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Trap
-- **Popularität**: Niedrig (652 monatliche Hörer)
+- **Monthly Listeners**: 652 (captured: 26.02.2026 05:18)
+- **Followers**: Not available
+- **Genre**: German Rap/Trap
+- **Popularity**: Low (652 monthly listeners)
 
-## Biografie
+## Biography
 "more music: soundcloud.com/manicrap"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: SoundCloud: soundcloud.com/manicrap
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: SoundCloud: soundcloud.com/manicrap
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 05:18
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 05:18
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - wolkenkratzer (Latest Release) - Single
@@ -41,7 +41,7 @@
 4. judge it (feat. Luwoe Beats)
 5. ZEИIT (feat. ELJO) (Explicit)
 
-## Kollaborationen
+## Collaborations
 - eg2l (wolkenkratzer, on god)
 - Luwoe Beats (on god, für dich auch, judge it)
 - Paym (für dich auch)
@@ -52,29 +52,29 @@
 - eg2l (Fans also like)
 - LEONID (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Manic" - direkter, emotionaler Name
-- **Themen**: Architektur (wolkenkratzer), Spiritualität (on god), Beziehungen (für dich auch), Urteil (judge it), Zeit (ZEИIT)
-- **Sprachmuster**: Deutsch mit englischen Elementen, emotionale Themen
-- **Zahlenmystik**: Kyrillisches "И" in ZEИIT
+## Patterns & Anomalies
+- **Name Conventions**: "Manic" - direct, emotional name
+- **Themes**: Architecture (wolkenkratzer), spirituality (on god), relationships (für dich auch), judgment (judge it), time (ZEИIT)
+- **Language Patterns**: German with English elements, emotional themes
+- **Number Mysticism**: Cyrillic "И" in ZEИIT
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 652 monatliche Hörer (realistisch für Indie-Künstler)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, organische Entwicklung
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 652 monthly listeners (realistic for indie artist)
+- **Activity Patterns**: Regular releases, organic development
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Hohe Kollaborations-Dichte mit eg2l, Luwoe Beats
-- **Genre-Cluster**: Deutschrap/Trap mit emotionalen Themen
-- **Verbindungs-Stärke**: Stark verbunden mit eg2l, LEONID (Fans also like)
-- **Influence-Patterns**: Teil des Trap/Underground Netzwerks
+## Network Analysis
+- **Collaboration Density**: High collaboration density with eg2l, Luwoe Beats
+- **Genre Cluster**: German Rap/Trap with emotional themes
+- **Connection Strength**: Strongly connected with eg2l, LEONID (Fans also like)
+- **Influence Patterns**: Part of Trap/Underground network
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap/Trap mit emotionalen Elementen
-- **Ansatz**: Emotional, nachdenklich ("soll die vergangenheit komm' ich renn")
-- **Themen**: Architektur, Spiritualität, Beziehungen, Urteil, Zeit
-- **Community**: SoundCloud-Präsenz, artbroken collective
+## Artist Philosophy
+- **Music Style**: German Rap/Trap with emotional elements
+- **Approach**: Emotional, thoughtful ("soll die vergangenheit komm' ich renn")
+- **Themes**: Architecture, spirituality, relationships, judgment, time
+- **Community**: SoundCloud presence, artbroken collective
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

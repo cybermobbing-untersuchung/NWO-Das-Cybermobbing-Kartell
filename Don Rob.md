@@ -1,34 +1,34 @@
 # Don Rob
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 7jVyUDHa9RZ7s3LCzf99Ap
 - **Spotify Link**: https://open.spotify.com/artist/7jVyUDHa9RZ7s3LCzf99Ap
 - **Original Spotify-Link**: https://open.spotify.com/artist/7jVyUDHa9RZ7s3LCzf99Ap?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 1,800 (erfasst: 26.02.2026 05:03)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Trap
-- **Popularität**: Mittel-Hoch (1.8K monatliche Hörer)
+- **Monthly Listeners**: 1,800 (captured: 26.02.2026 05:03)
+- **Followers**: Not available
+- **Genre**: German Rap/Trap
+- **Popularity**: Medium-High (1.8K monthly listeners)
 
-## Biografie
-Keine Biografie verfügbar
+## Biography
+No biography available
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 05:03
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 05:03
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - Kommst du mit (Latest Release) - Single
@@ -41,7 +41,7 @@ Keine Biografie verfügbar
 4. Madeline (feat. SHLR, Len X)
 5. Paniniheft (feat. SHLR, least)
 
-## Kollaborationen
+## Collaborations
 - SHLR (2 Welten, Kommst du mit, Kalte Stadt, Madeline, Paniniheft)
 - ddon (Kommst du mit, Kalte Stadt)
 - Len X (Kommst du mit, Kalte Stadt, Madeline)
@@ -52,29 +52,29 @@ Keine Biografie verfügbar
 - Felo (Fans also like)
 - JShiny (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Don Rob" - klassischer Rap-Name
-- **Themen**: Dualität (2 Welten), Gemeinschaft (Kommst du mit), Umgebung (Kalte Stadt), persönliche Namen (Madeline, Paniniheft)
-- **Sprachmuster**: Deutsch mit direkten, persönlichen Themen
-- **Zahlenmystik**: "2" in 2 Welten
+## Patterns & Anomalies
+- **Name Conventions**: "Don Rob" - classic rap name
+- **Themes**: Duality (2 Welten), community (Kommst du mit), environment (Kalte Stadt), personal names (Madeline, Paniniheft)
+- **Language Patterns**: German with direct, personal themes
+- **Number Mysticism**: "2" in 2 Welten
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 1,800 monatliche Hörer (realistisch für etablierten Indie-Künstler)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, organische Entwicklung
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 1,800 monthly listeners (realistic for established indie artist)
+- **Activity Patterns**: Regular releases, organic development
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Extrem hohe Kollaborations-Dichte mit SHLR
-- **Genre-Cluster**: Deutschrap/Trap mit persönlichen Themen
-- **Verbindungs-Stärke**: Stark verbunden mit Felo, JShiny (Fans also like)
-- **Influence-Patterns**: Teil des Trap/Underground Netzwerks
+## Network Analysis
+- **Collaboration Density**: Extremely high collaboration density with SHLR
+- **Genre Cluster**: German Rap/Trap with personal themes
+- **Connection Strength**: Strongly connected with Felo, JShiny (Fans also like)
+- **Influence Patterns**: Part of Trap/Underground network
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap/Trap mit persönlichen Elementen
-- **Ansatz**: Direkt, persönlich
-- **Themen**: Dualität, Gemeinschaft, Umgebung, persönliche Namen
-- **Community**: Starke Kollaborations-Präsenz mit SHLR
+## Artist Philosophy
+- **Music Style**: German Rap/Trap with personal elements
+- **Approach**: Direct, personal
+- **Themes**: Duality, community, environment, personal names
+- **Community**: Strong collaboration presence with SHLR
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

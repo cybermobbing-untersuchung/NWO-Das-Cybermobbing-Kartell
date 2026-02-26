@@ -1,31 +1,31 @@
 # 2late4hugs
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 3moGHNhXc2gtN5J4LSuT9h
 - **Spotify Link**: https://open.spotify.com/artist/3moGHNhXc2gtN5J4LSuT9h
 - **Original Spotify-Link**: https://open.spotify.com/artist/3moGHNhXc2gtN5J4LSuT9h?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 27,384 (erfasst: 26.02.2026 01:38)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Emo Rap
-- **Popularität**: Mittel (27.4K monatliche Hörer)
+- **Monthly Listeners**: 27,384 (captured: 26.02.2026 01:38)
+- **Followers**: Not available
+- **Genre**: German Rap/Emo Rap
+- **Popularity**: Medium (27.4K monthly listeners)
 
-## Biografie
+## Biography
 "27,384 monthly listeners wir holen uns das was wir verdien'"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 01:38
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 01:38
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### Singles
 - Nicht Einfach (Latest Release) - Single
@@ -38,37 +38,37 @@
 4. Suicide - 204,471 Plays
 5. Nicht Einfach (Latest Release)
 
-## Kollaborationen
+## Collaborations
 - toly808 (BORDERLINE)
 - mczy808 (Erhofft)
-- 2late (verknüpfter Künstler)
+- 2late (linked artist)
 - Eaven (2late4hugs Radio)
 - YASSINE (2late4hugs Radio)
 - dxstin (2late4hugs Radio)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "2late4hugs" - Zeit-basierter Name mit emotionaler Komponente
-- **Themen**: Dunkle, emotionale Themen (Suicide, BORDERLINE, Depression)
-- **Sprachmuster**: Deutsch mit emotionalen, teils provokanten Texten
-- **Zahlenmystik**: "2" als Präfix, Verbindung zu "2late"
+## Patterns & Anomalies
+- **Name Conventions**: "2late4hugs" - Time-based name with emotional component
+- **Themes**: Dark, emotional themes (Suicide, BORDERLINE, depression)
+- **Language Patterns**: German with emotional, sometimes provocative lyrics
+- **Number Mysticism**: "2" as prefix, connection to "2late"
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 27,384 monatliche Hörer bei 800K+ Plays (realistisch für erfolgreichen Indie-Künstler)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, organische Wachstumsdynamik
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 27,384 monthly listeners with 800K+ plays (realistic for successful indie artist)
+- **Activity Patterns**: Regular releases, organic growth dynamics
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Emo Rap-Künstlern
-- **Genre-Cluster**: Deutschrap/Emo Rap mit dunklen Themen
-- **Verbindungs-Stärke**: Stark verbunden mit Eaven, mczy808, El Rafo (Fans also like)
-- **Influence-Patterns**: Wichtiger Knotenpunkt im Deutschrap/Emo Rap Netzwerk
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar emo rap artists
+- **Genre Cluster**: German Rap/Emo Rap with dark themes
+- **Connection Strength**: Strongly connected with Eaven, mczy808, El Rafo (Fans also like)
+- **Influence Patterns**: Important node in German Rap/Emo Rap network
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap/Emo Rap mit düsteren Themen
-- **Ansatz**: Emotional, authentisch ("wir holen uns das was wir verdien'")
-- **Themen**: Depression, Suizidgedanken, emotionale Grenzen (BORDERLINE)
-- **Community**: Unterstützende Botschaften für Menschen mit psychischen Problemen
+## Artist Philosophy
+- **Music Style**: German Rap/Emo Rap with dark themes
+- **Approach**: Emotional, authentic ("wir holen uns das was wir verdien'")
+- **Themes**: Depression, suicidal thoughts, emotional boundaries (BORDERLINE)
+- **Community**: Supportive messages for people with mental health issues
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

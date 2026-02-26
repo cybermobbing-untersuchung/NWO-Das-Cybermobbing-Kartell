@@ -1,34 +1,34 @@
 # someartistnamedAny
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 5kZlcdC1bfwba9mtNYOGEb
 - **Spotify Link**: https://open.spotify.com/artist/5kZlcdC1bfwba9mtNYOGEb
 - **Original Spotify-Link**: https://open.spotify.com/artist/5kZlcdC1bfwba9mtNYOGEb?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 17 (erfasst: 26.02.2026 05:30)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Trap
-- **Popularität**: Extrem niedrig (17 monatliche Hörer)
+- **Monthly Listeners**: 17 (captured: 26.02.2026 05:30)
+- **Followers**: Not available
+- **Genre**: German Rap/Trap
+- **Popularity**: Extremely low (17 monthly listeners)
 
-## Biografie
+## Biography
 "dead dreams homie"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 05:30
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 05:30
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - Macher (2025) - Single
@@ -40,7 +40,7 @@
 2. SONNTAG ABEND - Heroes Version (Explicit)
 3. Ziese Wird Geteilt
 
-## Kollaborationen
+## Collaborations
 - nightfvry (someartistnamedAny Radio)
 - Snowz (someartistnamedAny Radio)
 - JONII (someartistnamedAny Radio)
@@ -48,29 +48,29 @@
 - JarvisDior (Fans also like)
 - CLA$$Y (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "someartistnamedAny" - ironischer, generischer Name
-- **Themen**: Zeit (Bis Um 6), Wochenende (SONNTAG ABEND), Personen (Ziese Wird Geteilt), Macher-Identität (Macher), musikalische Elemente (Da Fehlt Die Hook)
-- **Sprachmuster**: Deutsch mit emotionalen, persönlichen Themen
-- **Zahlenmystik**: "6" in Bis Um 6
+## Patterns & Anomalies
+- **Name Conventions**: "someartistnamedAny" - ironic, generic name
+- **Themes**: Time (Bis Um 6), weekend (SONNTAG ABEND), people (Ziese Wird Geteilt), maker identity (Macher), musical elements (Da Fehlt Die Hook)
+- **Language Patterns**: German with emotional, personal themes
+- **Number Mysticism**: "6" in Bis Um 6
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 17 monatliche Hörer bei 1,655+ Plays (hohe Play-zahl für so wenige Hörer - potenzieller Bot-Verdacht)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, aber ungewöhnliche Play-zahlen
-- **Bot-Indikatoren**: Hohe Play-zahlen bei extrem niedrigen Hörerzahlen
-- **Künstliche Popularität**: Potenziell manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 17 monthly listeners with 1,655+ plays (high play count for so few listeners - potential bot suspicion)
+- **Activity Patterns**: Regular releases, but unusual play counts
+- **Bot Indicators**: High play counts with extremely low listener numbers
+- **Artificial Popularity**: Potentially manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Radio-Verbindungen
-- **Genre-Cluster**: Deutschrap/Trap mit persönlichen Themen
-- **Verbindungs-Stärke**: Stark verbunden mit tw1nna, JarvisDior, CLA$$Y (Fans also like)
-- **Influence-Patterns**: Teil des Trap/Underground Netzwerks
+## Network Analysis
+- **Collaboration Density**: Moderate radio connections
+- **Genre Cluster**: German Rap/Trap with personal themes
+- **Connection Strength**: Strongly connected with tw1nna, JarvisDior, CLA$$Y (Fans also like)
+- **Influence Patterns**: Part of Trap/Underground network
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap/Trap mit persönlichen Elementen
-- **Ansatz**: Ironisch, persönlich ("dead dreams homie")
-- **Themen**: Zeit, Wochenende, Personen, Macher-Identität, musikalische Elemente
-- **Community**: Full Circle Collective, nightfvry-Verbindung
+## Artist Philosophy
+- **Music Style**: German Rap/Trap with personal elements
+- **Approach**: Ironic, personal ("dead dreams homie")
+- **Themes**: Time, weekend, people, maker identity, musical elements
+- **Community**: Full Circle Collective, nightfvry connection
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

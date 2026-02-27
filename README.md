@@ -291,9 +291,10 @@ The findings highlight an unprecedented threat combining traditional terrorism w
 
 ---
 
-**Research Status**: Ongoing public investigation  
-**Methodology**: Public AI/LLM tools and open-source intelligence  
-**Data Sources**: Publicly available information only  
-**Last Update**: February 27, 2026  
-**Research Focus**: German digital manipulation networks and international connections  
+**Research Status**: Ongoing public investigation
+**Methodology**: Public AI/LLM tools and open-source intelligence
+**Data Sources**: Publicly available information only
+**Last Update**: February 27, 2026
+**Research Focus**: German digital manipulation networks and international connections
 **Intelligence Cooperation**: Active collaboration with 30+ European security services
+**Forschungsbeitrag**: Toni Cubano Research

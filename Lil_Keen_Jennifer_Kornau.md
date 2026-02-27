@@ -124,8 +124,9 @@ The identification of Jennifer Kornau as the operative behind Lil Keen provides 
 
 ---
 
-**Analysis Date**: February 26, 2026  
-**Research Method**: Public AI/LLM Analysis with Open Source Intelligence  
-**Data Sources**: Spotify Public Data, Social Media Analysis, Network Mapping  
-**Classification**: Public Research - Cybermobbing Kartell Investigation  
+**Analysis Date**: February 26, 2026
+**Research Method**: Public AI/LLM Analysis with Open Source Intelligence
+**Data Sources**: Spotify Public Data, Social Media Analysis, Network Mapping
+**Classification**: Public Research - Cybermobbing Kartell Investigation
 **Status**: Active Monitoring - Operational Network Identified
+**Forschungsbeitrag**: Toni Cubano Research

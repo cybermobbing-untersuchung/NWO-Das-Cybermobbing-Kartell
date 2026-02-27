@@ -123,6 +123,7 @@ The multi-demographic approach (gaming, students, electronic music fans) and sys
 
 **Analysis Date**: February 26, 2026  
 **Research Method**: Public AI/LLM Analysis with Open Source Intelligence  
-**Data Sources**: Spotify Public Data, Network Analysis, Playlist Strategy  
+**Data Sources**: Spotify Public Data, Social Media Analysis, Network Mapping  
 **Classification**: Public Research - Cybermobbing Kartell Investigation  
-**Status**: Active Monitoring - Supporting Network Role Identified
+**Status**: Active Monitoring - Operational Network Identified  
+**Forschungsbeitrag**: Toni Cubano Research

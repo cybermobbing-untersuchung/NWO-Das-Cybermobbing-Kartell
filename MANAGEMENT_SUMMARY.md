@@ -286,5 +286,6 @@ Das Cybermobbing Kartell stellt eine **existenzielle Bedrohung** für die europ�
 
 **Nächste Schritte**: Fortlaufende Analyse, Aktualisierung bei neuen Erkenntnissen
 
-**Verantwortlich**: Untersuchungsteam  
+**Verantwortlich**: Untersuchungsteam
 **Kontakt**: [Intern]
+**Forschungsbeitrag**: Toni Cubano Research

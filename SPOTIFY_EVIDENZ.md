@@ -2,15 +2,18 @@
 
 ## Überblick
 
-Diese Dokumentation dient als evidenzbasierte Sammlung aller Spotify-Profile und Diskografien der verdächtigen KI-Künstler und -Influencer. Alle Screenshots werden systematisch erstellt und dokumentiert.
+Diese Dokumentation dient als evidenzbasierte Sammlung aller Spotify-Profile und Diskografien der verdächtigen KI-Künstler und -Influencer. Alle Screenshots werden systematisch erstellt und im Repository gespeichert.
+
+**Speicherort der Screenshots**: `c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\`
 
 ## Hauptverdächtige
 
 ### 1. Olexesh
 
-**Screenshot-Datei**: `spotify_olexesh_001.png`
+**Screenshot-Datei**: `spotify_screenshots/olexesh_001.png`
 **Spotify-URL**: https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl
 **Erstellungsdatum**: 27.02.2026
+**Status**: Screenshot erstellt, im Repository gespeichert
 
 **Sichtbare Informationen**:
 - Künstlername: Olexesh

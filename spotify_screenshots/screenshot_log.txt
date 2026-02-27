@@ -1,0 +1,749 @@
+2026-02-27 03:11:31 - === Spotify Screenshot Automatisierung gestartet ===
+2026-02-27 03:11:31 - Speicherort: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots
+2026-02-27 03:11:32 - Anzahl Künstler: 77
+2026-02-27 03:11:32 - 
+2026-02-27 03:11:32 - [1/77] (0%) - Bearbeite: Olexesh
+2026-02-27 03:11:32 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:11:32 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:11:32 -     2. Suche nach: Olexesh
+2026-02-27 03:11:32 -     3. Klicke auf den Künstler
+2026-02-27 03:11:33 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:11:33 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Olexesh_001_profil.png
+2026-02-27 03:11:33 - 
+2026-02-27 03:11:33 - [2/77] (1.3%) - Bearbeite: Hanybal
+2026-02-27 03:11:33 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:11:33 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:11:33 -     2. Suche nach: Hanybal
+2026-02-27 03:11:34 -     3. Klicke auf den Künstler
+2026-02-27 03:11:34 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:11:34 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Hanybal_001_profil.png
+2026-02-27 03:11:34 - 
+2026-02-27 03:11:34 - [3/77] (2.6%) - Bearbeite: Disarstar
+2026-02-27 03:11:34 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:11:34 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:11:35 -     2. Suche nach: Disarstar
+2026-02-27 03:11:35 -     3. Klicke auf den Künstler
+2026-02-27 03:11:35 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:11:35 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Disarstar_001_profil.png
+2026-02-27 03:11:35 - 
+2026-02-27 03:11:35 - [4/77] (3.9%) - Bearbeite: Nimo
+2026-02-27 03:11:35 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:11:35 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:11:36 -     2. Suche nach: Nimo
+2026-02-27 03:11:36 -     3. Klicke auf den Künstler
+2026-02-27 03:11:36 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:11:36 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Nimo_001_profil.png
+2026-02-27 03:11:36 - 
+2026-02-27 03:11:37 - [5/77] (5.2%) - Bearbeite: 249icey
+2026-02-27 03:11:37 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:11:37 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:11:37 -     2. Suche nach: 249icey
+2026-02-27 03:11:37 -     3. Klicke auf den Künstler
+2026-02-27 03:11:37 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:11:37 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\249icey_001_profil.png
+2026-02-27 03:11:37 - 
+2026-02-27 03:11:38 - [6/77] (6.5%) - Bearbeite: 2busy4time
+2026-02-27 03:11:38 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:11:38 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:11:38 -     2. Suche nach: 2busy4time
+2026-02-27 03:11:38 -     3. Klicke auf den Künstler
+2026-02-27 03:11:38 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:11:38 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\2busy4time_001_profil.png
+2026-02-27 03:11:38 - 
+2026-02-27 03:11:39 - [7/77] (7.8%) - Bearbeite: 2dizzy
+2026-02-27 03:11:39 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:11:39 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:11:39 -     2. Suche nach: 2dizzy
+2026-02-27 03:11:39 -     3. Klicke auf den Künstler
+2026-02-27 03:11:39 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:11:39 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\2dizzy_001_profil.png
+2026-02-27 03:11:39 - 
+2026-02-27 03:11:40 - [8/77] (9.1%) - Bearbeite: 2late
+2026-02-27 03:11:40 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:11:40 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:11:40 -     2. Suche nach: 2late
+2026-02-27 03:11:40 -     3. Klicke auf den Künstler
+2026-02-27 03:11:40 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:11:40 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\2late_001_profil.png
+2026-02-27 03:11:40 - 
+2026-02-27 03:11:41 - [9/77] (10.4%) - Bearbeite: 52Blue
+2026-02-27 03:11:41 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:11:41 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:11:41 -     2. Suche nach: 52Blue
+2026-02-27 03:11:41 -     3. Klicke auf den Künstler
+2026-02-27 03:11:41 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:11:41 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\52Blue_001_profil.png
+2026-02-27 03:11:41 - 
+2026-02-27 03:11:42 - [10/77] (11.7%) - Bearbeite: 7ventus
+2026-02-27 03:11:42 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:11:42 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:11:42 -     2. Suche nach: 7ventus
+2026-02-27 03:11:42 -     3. Klicke auf den Künstler
+2026-02-27 03:11:42 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:11:42 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\7ventus_001_profil.png
+2026-02-27 03:11:42 - 
+2026-02-27 03:11:42 - [11/77] (13%) - Bearbeite: ALeiz
+2026-02-27 03:11:42 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:11:42 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:11:42 -     2. Suche nach: ALeiz
+2026-02-27 03:11:42 -     3. Klicke auf den Künstler
+2026-02-27 03:11:42 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:11:42 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\ALeiz_001_profil.png
+2026-02-27 03:11:43 - 
+2026-02-27 03:11:43 - [12/77] (14.3%) - Bearbeite: AP$
+2026-02-27 03:11:43 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:11:43 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:11:43 -     2. Suche nach: AP$
+2026-02-27 03:11:43 -     3. Klicke auf den Künstler
+2026-02-27 03:11:43 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:11:43 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\AP__001_profil.png
+2026-02-27 03:11:43 - 
+2026-02-27 03:11:44 - [13/77] (15.6%) - Bearbeite: Alex Connor
+2026-02-27 03:11:44 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:11:44 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:11:44 -     2. Suche nach: Alex Connor
+2026-02-27 03:11:44 -     3. Klicke auf den Künstler
+2026-02-27 03:11:44 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:11:44 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Alex_Connor_001_profil.png
+2026-02-27 03:11:44 - 
+2026-02-27 03:11:45 - [14/77] (16.9%) - Bearbeite: Alexander Eder
+2026-02-27 03:11:45 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:11:45 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:11:45 -     2. Suche nach: Alexander Eder
+2026-02-27 03:11:46 -     3. Klicke auf den Künstler
+2026-02-27 03:11:46 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:11:46 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Alexander_Eder_001_profil.png
+2026-02-27 03:11:47 - 
+2026-02-27 03:11:48 - [15/77] (18.2%) - Bearbeite: Armando
+2026-02-27 03:11:48 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:11:48 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:11:48 -     2. Suche nach: Armando
+2026-02-27 03:11:48 -     3. Klicke auf den Künstler
+2026-02-27 03:11:48 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:11:48 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Armando_001_profil.png
+2026-02-27 03:11:48 - 
+2026-02-27 03:11:49 - [16/77] (19.5%) - Bearbeite: ArniMakeItDrop
+2026-02-27 03:11:49 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:11:49 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:11:49 -     2. Suche nach: ArniMakeItDrop
+2026-02-27 03:11:49 -     3. Klicke auf den Künstler
+2026-02-27 03:11:49 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:11:50 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\ArniMakeItDrop_001_profil.png
+2026-02-27 03:11:50 - 
+2026-02-27 03:11:51 - [17/77] (20.8%) - Bearbeite: ArniTheSavage
+2026-02-27 03:11:51 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:11:51 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:11:51 -     2. Suche nach: ArniTheSavage
+2026-02-27 03:11:51 -     3. Klicke auf den Künstler
+2026-02-27 03:11:52 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:11:52 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\ArniTheSavage_001_profil.png
+2026-02-27 03:11:52 - 
+2026-02-27 03:11:53 - [18/77] (22.1%) - Bearbeite: Arrow
+2026-02-27 03:11:53 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:11:53 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:11:53 -     2. Suche nach: Arrow
+2026-02-27 03:11:54 -     3. Klicke auf den Künstler
+2026-02-27 03:11:54 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:11:54 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Arrow_001_profil.png
+2026-02-27 03:11:54 - 
+2026-02-27 03:11:55 - [19/77] (23.4%) - Bearbeite: Artan67
+2026-02-27 03:11:55 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:11:56 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:11:56 -     2. Suche nach: Artan67
+2026-02-27 03:11:56 -     3. Klicke auf den Künstler
+2026-02-27 03:11:56 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:11:56 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Artan67_001_profil.png
+2026-02-27 03:11:56 - 
+2026-02-27 03:11:57 - [20/77] (24.7%) - Bearbeite: Asterio
+2026-02-27 03:11:57 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:11:57 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:11:57 -     2. Suche nach: Asterio
+2026-02-27 03:11:57 -     3. Klicke auf den Künstler
+2026-02-27 03:11:57 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:11:57 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Asterio_001_profil.png
+2026-02-27 03:11:57 - 
+2026-02-27 03:11:58 - [21/77] (26%) - Bearbeite: BNZO
+2026-02-27 03:11:59 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:11:59 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:00 -     2. Suche nach: BNZO
+2026-02-27 03:12:01 - === Spotify Screenshot Automatisierung gestartet ===
+2026-02-27 03:12:01 -     3. Klicke auf den Künstler
+2026-02-27 03:12:03 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:03 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\BNZO_001_profil.png
+2026-02-27 03:12:03 - 
+2026-02-27 03:12:03 - Anzahl Künstler: 77
+2026-02-27 03:12:03 - 
+2026-02-27 03:12:03 - === MANUELLE SCREENSHOT-ERSTELLUNG ERFORDERLICH ===
+2026-02-27 03:12:03 - 
+2026-02-27 03:12:04 - Da das Browser-Tool technische Probleme hat, müssen Screenshots manuell erstellt werden.
+2026-02-27 03:12:04 - 
+2026-02-27 03:12:04 - === ANLEITUNG ===
+2026-02-27 03:12:04 - [22/77] (27.3%) - Bearbeite: BeSa
+2026-02-27 03:12:04 - 
+2026-02-27 03:12:04 - Für jeden Künstler:
+2026-02-27 03:12:04 - 1. Öffne: https://open.spotify.com
+2026-02-27 03:12:04 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:04 - 2. Suche nach dem Künstlernamen
+2026-02-27 03:12:04 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:04 -     2. Suche nach: BeSa
+2026-02-27 03:12:05 - 3. Klicke auf den Künstler
+2026-02-27 03:12:05 - 4. Erstelle einen Screenshot des Profils
+2026-02-27 03:12:05 -     3. Klicke auf den Künstler
+2026-02-27 03:12:05 - 5. Speichere den Screenshot im Ordner: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots
+2026-02-27 03:12:05 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:05 - 6. Benenne die Datei: {künstlername}_001_profil.png
+2026-02-27 03:12:05 - 
+2026-02-27 03:12:05 - === KÜNSTLER-LISTE ===
+2026-02-27 03:12:05 - 
+2026-02-27 03:12:07 - [12/77] (14.3%) - AP$
+2026-02-27 03:12:07 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\AP__001_profil.png
+2026-02-27 03:12:07 - [13/77] (15.6%) - Alex Connor
+2026-02-27 03:12:07 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Alex_Connor_001_profil.png
+2026-02-27 03:12:07 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:07 - [14/77] (16.9%) - Alexander Eder
+2026-02-27 03:12:07 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Beigerdon_001_profil.png
+2026-02-27 03:12:07 - 
+2026-02-27 03:12:07 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Alexander_Eder_001_profil.png
+2026-02-27 03:12:07 - [15/77] (18.2%) - Armando
+2026-02-27 03:12:07 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Armando_001_profil.png
+2026-02-27 03:12:07 - [16/77] (19.5%) - ArniMakeItDrop
+2026-02-27 03:12:07 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\ArniMakeItDrop_001_profil.png
+2026-02-27 03:12:07 - [17/77] (20.8%) - ArniTheSavage
+2026-02-27 03:12:08 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\ArniTheSavage_001_profil.png
+2026-02-27 03:12:08 - [18/77] (22.1%) - Arrow
+2026-02-27 03:12:08 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Arrow_001_profil.png
+2026-02-27 03:12:08 - [19/77] (23.4%) - Artan67
+2026-02-27 03:12:08 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Artan67_001_profil.png
+2026-02-27 03:12:08 - [20/77] (24.7%) - Asterio
+2026-02-27 03:12:08 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Asterio_001_profil.png
+2026-02-27 03:12:08 - [21/77] (26%) - BNZO
+2026-02-27 03:12:08 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\BNZO_001_profil.png
+2026-02-27 03:12:08 - [22/77] (27.3%) - BeSa
+2026-02-27 03:12:08 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\BeSa_001_profil.png
+2026-02-27 03:12:08 - [23/77] (28.6%) - Beigerdon
+2026-02-27 03:12:09 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Beigerdon_001_profil.png
+2026-02-27 03:12:09 - [24/77] (29.9%) - Beneath040
+2026-02-27 03:12:09 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Beneath040_001_profil.png
+2026-02-27 03:12:09 - [25/77] (31.2%) - Benten2030
+2026-02-27 03:12:09 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Benten2030_001_profil.png
+2026-02-27 03:12:10 - [26/77] (32.5%) - Benzo Bailey
+2026-02-27 03:12:10 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Benzo_Bailey_001_profil.png
+2026-02-27 03:12:10 - [27/77] (33.8%) - Bianco
+2026-02-27 03:12:10 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Bianco_001_profil.png
+2026-02-27 03:12:10 - [28/77] (35.1%) - Big Boy Playin
+2026-02-27 03:12:10 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Big_Boy_Playin_001_profil.png
+2026-02-27 03:12:10 - [29/77] (36.4%) - Big Joe
+2026-02-27 03:12:10 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Big_Joe_001_profil.png
+2026-02-27 03:12:10 - [30/77] (37.7%) - Blender
+2026-02-27 03:12:10 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Blender_001_profil.png
+2026-02-27 03:12:10 - [31/77] (39%) - BluFeyza
+2026-02-27 03:12:10 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\BluFeyza_001_profil.png
+2026-02-27 03:12:10 - [32/77] (40.3%) - Bount
+2026-02-27 03:12:10 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Bount_001_profil.png
+2026-02-27 03:12:10 - [33/77] (41.6%) - Broll3
+2026-02-27 03:12:11 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Broll3_001_profil.png
+2026-02-27 03:12:11 - [34/77] (42.9%) - CAMO23
+2026-02-27 03:12:11 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\CAMO23_001_profil.png
+2026-02-27 03:12:11 - [35/77] (44.2%) - CHROME
+2026-02-27 03:12:11 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\CHROME_001_profil.png
+2026-02-27 03:12:11 - [36/77] (45.5%) - CLAY
+2026-02-27 03:12:11 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\CLAY_001_profil.png
+2026-02-27 03:12:11 - [37/77] (46.8%) - CLean
+2026-02-27 03:12:11 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\CLean_001_profil.png
+2026-02-27 03:12:11 - [38/77] (48.1%) - CRO
+2026-02-27 03:12:11 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\CRO_001_profil.png
+2026-02-27 03:12:11 - [39/77] (49.4%) - CXDEX
+2026-02-27 03:12:11 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\CXDEX_001_profil.png
+2026-02-27 03:12:11 - [40/77] (50.6%) - CaSaSi
+2026-02-27 03:12:11 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\CaSaSi_001_profil.png
+2026-02-27 03:12:11 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:11 -     2. Suche nach: Beneath040
+2026-02-27 03:12:11 -     3. Klicke auf den Künstler
+2026-02-27 03:12:11 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:11 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Beneath040_001_profil.png
+2026-02-27 03:12:11 - 
+2026-02-27 03:12:12 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Cavy_001_profil.png
+2026-02-27 03:12:12 - [42/77] (53.2%) - Cee355
+2026-02-27 03:12:12 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Cee355_001_profil.png
+2026-02-27 03:12:12 - [43/77] (54.5%) - Cerejaa
+2026-02-27 03:12:12 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Cerejaa_001_profil.png
+2026-02-27 03:12:12 - [44/77] (55.8%) - ChaiN
+2026-02-27 03:12:12 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\ChaiN_001_profil.png
+2026-02-27 03:12:12 - [45/77] (57.1%) - Chaos41
+2026-02-27 03:12:12 - [25/77] (31.2%) - Bearbeite: Benten2030
+2026-02-27 03:12:12 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:12 - [46/77] (58.4%) - Cheekyteo
+2026-02-27 03:12:12 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Cheekyteo_001_profil.png
+2026-02-27 03:12:12 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:12 - [47/77] (59.7%) - Chris de Burgh
+2026-02-27 03:12:12 -     2. Suche nach: Benten2030
+2026-02-27 03:12:12 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Chris_de_Burgh_001_profil.png
+2026-02-27 03:12:12 - [48/77] (61%) - Constii
+2026-02-27 03:12:12 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Constii_001_profil.png
+2026-02-27 03:12:12 - [49/77] (62.3%) - Cr7z
+2026-02-27 03:12:12 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Cr7z_001_profil.png
+2026-02-27 03:12:12 - [50/77] (63.6%) - Creety915
+2026-02-27 03:12:13 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Creety915_001_profil.png
+2026-02-27 03:12:13 - [51/77] (64.9%) - Crispy
+2026-02-27 03:12:13 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Crispy_001_profil.png
+2026-02-27 03:12:13 - [52/77] (66.2%) - Cubbie
+2026-02-27 03:12:13 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Cubbie_001_profil.png
+2026-02-27 03:12:13 - [53/77] (67.5%) - DAWY
+2026-02-27 03:12:13 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\DAWY_001_profil.png
+2026-02-27 03:12:13 - [54/77] (68.8%) - DAYDREAMCHASER
+2026-02-27 03:12:13 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\DAYDREAMCHASER_001_profil.png
+2026-02-27 03:12:13 - [55/77] (70.1%) - DER400
+2026-02-27 03:12:13 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\DER400_001_profil.png
+2026-02-27 03:12:13 - [56/77] (71.4%) - DIRTY
+2026-02-27 03:12:13 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\DIRTY_001_profil.png
+2026-02-27 03:12:13 - [57/77] (72.7%) - DONDON
+2026-02-27 03:12:14 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\DONDON_001_profil.png
+2026-02-27 03:12:14 - [58/77] (74%) - DXVE
+2026-02-27 03:12:14 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\DXVE_001_profil.png
+2026-02-27 03:12:14 - [59/77] (75.3%) - DannyoD
+2026-02-27 03:12:14 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\DannyoD_001_profil.png
+2026-02-27 03:12:14 - [60/77] (76.6%) - Dasco44
+2026-02-27 03:12:14 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Dasco44_001_profil.png
+2026-02-27 03:12:14 - [61/77] (77.9%) - Dave Classic
+2026-02-27 03:12:14 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Dave_Classic_001_profil.png
+2026-02-27 03:12:14 - [62/77] (79.2%) - DaysOfRain
+2026-02-27 03:12:15 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\DaysOfRain_001_profil.png
+2026-02-27 03:12:15 - [63/77] (80.5%) - DeadlyFriday
+2026-02-27 03:12:15 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\DeadlyFriday_001_profil.png
+2026-02-27 03:12:15 - [64/77] (81.8%) - Dean
+2026-02-27 03:12:15 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Dean_001_profil.png
+2026-02-27 03:12:15 - [65/77] (83.1%) - Deek469
+2026-02-27 03:12:15 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Deek469_001_profil.png
+2026-02-27 03:12:15 - [66/77] (84.4%) - Dian
+2026-02-27 03:12:15 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Dian_001_profil.png
+2026-02-27 03:12:15 - [67/77] (85.7%) - Don Rob
+2026-02-27 03:12:15 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Don_Rob_001_profil.png
+2026-02-27 03:12:15 - [68/77] (87%) - Don
+2026-02-27 03:12:15 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Don_001_profil.png
+2026-02-27 03:12:15 - [69/77] (88.3%) - Drogu
+2026-02-27 03:12:15 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Drogu_001_profil.png
+2026-02-27 03:12:15 - [70/77] (89.6%) - Dropped
+2026-02-27 03:12:16 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Dropped_001_profil.png
+2026-02-27 03:12:16 - [71/77] (90.9%) - Dropshoter
+2026-02-27 03:12:16 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Dropshoter_001_profil.png
+2026-02-27 03:12:16 - [72/77] (92.2%) - Dynon
+2026-02-27 03:12:16 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Dynon_001_profil.png
+2026-02-27 03:12:16 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Benten2030_001_profil.png
+2026-02-27 03:12:16 - [73/77] (93.5%) - EAzzzTside
+2026-02-27 03:12:17 -     3. Klicke auf den Künstler
+2026-02-27 03:12:17 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:17 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Benzo_Bailey_001_profil.png
+2026-02-27 03:12:17 - 
+2026-02-27 03:12:18 - [27/77] (33.8%) - Bearbeite: Bianco
+2026-02-27 03:12:18 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:18 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:18 -     2. Suche nach: Bianco
+2026-02-27 03:12:19 -     3. Klicke auf den Künstler
+2026-02-27 03:12:19 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:19 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Bianco_001_profil.png
+2026-02-27 03:12:19 - 
+2026-02-27 03:12:19 - [28/77] (35.1%) - Bearbeite: Big Boy Playin
+2026-02-27 03:12:19 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:19 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:19 -     2. Suche nach: Big Boy Playin
+2026-02-27 03:12:19 -     3. Klicke auf den Künstler
+2026-02-27 03:12:19 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:19 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Big_Boy_Playin_001_profil.png
+2026-02-27 03:12:19 - 
+2026-02-27 03:12:20 - [29/77] (36.4%) - Bearbeite: Big Joe
+2026-02-27 03:12:20 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:20 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:20 -     2. Suche nach: Big Joe
+2026-02-27 03:12:20 -     3. Klicke auf den Künstler
+2026-02-27 03:12:20 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:20 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Big_Joe_001_profil.png
+2026-02-27 03:12:20 - 
+2026-02-27 03:12:21 - [30/77] (37.7%) - Bearbeite: Blender
+2026-02-27 03:12:21 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:21 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:21 -     2. Suche nach: Blender
+2026-02-27 03:12:21 -     3. Klicke auf den Künstler
+2026-02-27 03:12:21 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:21 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Blender_001_profil.png
+2026-02-27 03:12:21 - 
+2026-02-27 03:12:21 - [31/77] (39%) - Bearbeite: BluFeyza
+2026-02-27 03:12:21 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:21 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:21 -     2. Suche nach: BluFeyza
+2026-02-27 03:12:21 -     3. Klicke auf den Künstler
+2026-02-27 03:12:21 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:21 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\BluFeyza_001_profil.png
+2026-02-27 03:12:21 - 
+2026-02-27 03:12:22 - [32/77] (40.3%) - Bearbeite: Bount
+2026-02-27 03:12:22 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:22 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:22 -     2. Suche nach: Bount
+2026-02-27 03:12:22 -     3. Klicke auf den Künstler
+2026-02-27 03:12:22 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:22 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Bount_001_profil.png
+2026-02-27 03:12:22 - 
+2026-02-27 03:12:23 - [33/77] (41.6%) - Bearbeite: Broll3
+2026-02-27 03:12:23 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:23 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:23 -     2. Suche nach: Broll3
+2026-02-27 03:12:23 -     3. Klicke auf den Künstler
+2026-02-27 03:12:23 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:23 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Broll3_001_profil.png
+2026-02-27 03:12:23 - 
+2026-02-27 03:12:23 - [34/77] (42.9%) - Bearbeite: CAMO23
+2026-02-27 03:12:23 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:23 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:24 -     2. Suche nach: CAMO23
+2026-02-27 03:12:24 -     3. Klicke auf den Künstler
+2026-02-27 03:12:24 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:24 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\CAMO23_001_profil.png
+2026-02-27 03:12:24 - 
+2026-02-27 03:12:25 - [35/77] (44.2%) - Bearbeite: CHROME
+2026-02-27 03:12:25 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:25 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:25 -     2. Suche nach: CHROME
+2026-02-27 03:12:25 -     3. Klicke auf den Künstler
+2026-02-27 03:12:25 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:25 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\CHROME_001_profil.png
+2026-02-27 03:12:25 - 
+2026-02-27 03:12:26 - [36/77] (45.5%) - Bearbeite: CLAY
+2026-02-27 03:12:26 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:26 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:26 -     2. Suche nach: CLAY
+2026-02-27 03:12:26 -     3. Klicke auf den Künstler
+2026-02-27 03:12:26 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:26 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\CLAY_001_profil.png
+2026-02-27 03:12:26 - 
+2026-02-27 03:12:26 - [37/77] (46.8%) - Bearbeite: CLean
+2026-02-27 03:12:26 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:26 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:26 -     2. Suche nach: CLean
+2026-02-27 03:12:26 -     3. Klicke auf den Künstler
+2026-02-27 03:12:26 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:26 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\CLean_001_profil.png
+2026-02-27 03:12:26 - 
+2026-02-27 03:12:27 - [38/77] (48.1%) - Bearbeite: CRO
+2026-02-27 03:12:27 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:27 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:27 -     2. Suche nach: CRO
+2026-02-27 03:12:27 -     3. Klicke auf den Künstler
+2026-02-27 03:12:27 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:27 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\CRO_001_profil.png
+2026-02-27 03:12:27 - 
+2026-02-27 03:12:28 - [39/77] (49.4%) - Bearbeite: CXDEX
+2026-02-27 03:12:28 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:28 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:28 -     2. Suche nach: CXDEX
+2026-02-27 03:12:28 -     3. Klicke auf den Künstler
+2026-02-27 03:12:28 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:28 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\CXDEX_001_profil.png
+2026-02-27 03:12:28 - 
+2026-02-27 03:12:28 - [40/77] (50.6%) - Bearbeite: CaSaSi
+2026-02-27 03:12:28 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:28 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:28 -     2. Suche nach: CaSaSi
+2026-02-27 03:12:28 -     3. Klicke auf den Künstler
+2026-02-27 03:12:28 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:28 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\CaSaSi_001_profil.png
+2026-02-27 03:12:29 - 
+2026-02-27 03:12:29 - [41/77] (51.9%) - Bearbeite: Cavy
+2026-02-27 03:12:29 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:29 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:29 -     2. Suche nach: Cavy
+2026-02-27 03:12:29 -     3. Klicke auf den Künstler
+2026-02-27 03:12:29 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:29 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Cavy_001_profil.png
+2026-02-27 03:12:29 - 
+2026-02-27 03:12:30 - [42/77] (53.2%) - Bearbeite: Cee355
+2026-02-27 03:12:30 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:30 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:30 -     2. Suche nach: Cee355
+2026-02-27 03:12:30 -     3. Klicke auf den Künstler
+2026-02-27 03:12:30 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:30 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Cee355_001_profil.png
+2026-02-27 03:12:30 - 
+2026-02-27 03:12:31 - [43/77] (54.5%) - Bearbeite: Cerejaa
+2026-02-27 03:12:31 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:31 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:31 -     2. Suche nach: Cerejaa
+2026-02-27 03:12:31 -     3. Klicke auf den Künstler
+2026-02-27 03:12:31 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:31 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Cerejaa_001_profil.png
+2026-02-27 03:12:31 - 
+2026-02-27 03:12:32 - [44/77] (55.8%) - Bearbeite: ChaiN
+2026-02-27 03:12:32 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:32 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:32 -     2. Suche nach: ChaiN
+2026-02-27 03:12:32 -     3. Klicke auf den Künstler
+2026-02-27 03:12:32 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:32 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\ChaiN_001_profil.png
+2026-02-27 03:12:32 - 
+2026-02-27 03:12:33 - [45/77] (57.1%) - Bearbeite: Chaos41
+2026-02-27 03:12:33 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:33 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:33 -     2. Suche nach: Chaos41
+2026-02-27 03:12:33 -     3. Klicke auf den Künstler
+2026-02-27 03:12:33 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:33 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Chaos41_001_profil.png
+2026-02-27 03:12:33 - 
+2026-02-27 03:12:34 - [46/77] (58.4%) - Bearbeite: Cheekyteo
+2026-02-27 03:12:34 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:34 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:34 -     2. Suche nach: Cheekyteo
+2026-02-27 03:12:34 -     3. Klicke auf den Künstler
+2026-02-27 03:12:35 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:36 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Cheekyteo_001_profil.png
+2026-02-27 03:12:36 - 
+2026-02-27 03:12:37 - [47/77] (59.7%) - Bearbeite: Chris de Burgh
+2026-02-27 03:12:37 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:37 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:37 -     2. Suche nach: Chris de Burgh
+2026-02-27 03:12:37 -     3. Klicke auf den Künstler
+2026-02-27 03:12:37 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:37 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Chris_de_Burgh_001_profil.png
+2026-02-27 03:12:37 - 
+2026-02-27 03:12:37 - [48/77] (61%) - Bearbeite: Constii
+2026-02-27 03:12:37 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:38 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:38 -     2. Suche nach: Constii
+2026-02-27 03:12:38 -     3. Klicke auf den Künstler
+2026-02-27 03:12:38 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:38 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Constii_001_profil.png
+2026-02-27 03:12:38 - 
+2026-02-27 03:12:39 - [49/77] (62.3%) - Bearbeite: Cr7z
+2026-02-27 03:12:39 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:39 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:39 -     2. Suche nach: Cr7z
+2026-02-27 03:12:40 -     3. Klicke auf den Künstler
+2026-02-27 03:12:40 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:40 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Cr7z_001_profil.png
+2026-02-27 03:12:40 - 
+2026-02-27 03:12:41 - [50/77] (63.6%) - Bearbeite: Creety915
+2026-02-27 03:12:41 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:41 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:42 -     3. Klicke auf den Künstler
+2026-02-27 03:12:42 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:42 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Creety915_001_profil.png
+2026-02-27 03:12:42 - 
+2026-02-27 03:12:43 - [51/77] (64.9%) - Bearbeite: Crispy
+2026-02-27 03:12:44 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:44 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:44 -     2. Suche nach: Crispy
+2026-02-27 03:12:44 -     3. Klicke auf den Künstler
+2026-02-27 03:12:44 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:44 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Crispy_001_profil.png
+2026-02-27 03:12:44 - 
+2026-02-27 03:12:45 - [52/77] (66.2%) - Bearbeite: Cubbie
+2026-02-27 03:12:45 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:45 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:45 -     2. Suche nach: Cubbie
+2026-02-27 03:12:45 -     3. Klicke auf den Künstler
+2026-02-27 03:12:45 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:45 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Cubbie_001_profil.png
+2026-02-27 03:12:45 - 
+2026-02-27 03:12:46 - [53/77] (67.5%) - Bearbeite: DAWY
+2026-02-27 03:12:46 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:46 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:46 -     2. Suche nach: DAWY
+2026-02-27 03:12:46 -     3. Klicke auf den Künstler
+2026-02-27 03:12:46 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:46 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\DAWY_001_profil.png
+2026-02-27 03:12:46 - 
+2026-02-27 03:12:47 - [54/77] (68.8%) - Bearbeite: DAYDREAMCHASER
+2026-02-27 03:12:47 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:47 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:47 -     2. Suche nach: DAYDREAMCHASER
+2026-02-27 03:12:47 -     3. Klicke auf den Künstler
+2026-02-27 03:12:47 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:47 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\DAYDREAMCHASER_001_profil.png
+2026-02-27 03:12:47 - 
+2026-02-27 03:12:47 - [55/77] (70.1%) - Bearbeite: DER400
+2026-02-27 03:12:47 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:47 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:48 -     2. Suche nach: DER400
+2026-02-27 03:12:48 -     3. Klicke auf den Künstler
+2026-02-27 03:12:48 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:48 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\DER400_001_profil.png
+2026-02-27 03:12:48 - 
+2026-02-27 03:12:48 - [56/77] (71.4%) - Bearbeite: DIRTY
+2026-02-27 03:12:48 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:48 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:48 -     2. Suche nach: DIRTY
+2026-02-27 03:12:48 -     3. Klicke auf den Künstler
+2026-02-27 03:12:48 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:48 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\DIRTY_001_profil.png
+2026-02-27 03:12:48 - 
+2026-02-27 03:12:49 - [57/77] (72.7%) - Bearbeite: DONDON
+2026-02-27 03:12:49 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:49 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:49 -     2. Suche nach: DONDON
+2026-02-27 03:12:49 -     3. Klicke auf den Künstler
+2026-02-27 03:12:49 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:49 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\DONDON_001_profil.png
+2026-02-27 03:12:49 - 
+2026-02-27 03:12:50 - [58/77] (74%) - Bearbeite: DXVE
+2026-02-27 03:12:50 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:50 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:50 -     2. Suche nach: DXVE
+2026-02-27 03:12:50 -     3. Klicke auf den Künstler
+2026-02-27 03:12:50 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:50 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\DXVE_001_profil.png
+2026-02-27 03:12:50 - 
+2026-02-27 03:12:50 - [59/77] (75.3%) - Bearbeite: DannyoD
+2026-02-27 03:12:50 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:50 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:50 -     2. Suche nach: DannyoD
+2026-02-27 03:12:51 -     3. Klicke auf den Künstler
+2026-02-27 03:12:51 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:51 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\DannyoD_001_profil.png
+2026-02-27 03:12:51 - 
+2026-02-27 03:12:51 - [60/77] (76.6%) - Bearbeite: Dasco44
+2026-02-27 03:12:51 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:51 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:51 -     2. Suche nach: Dasco44
+2026-02-27 03:12:51 -     3. Klicke auf den Künstler
+2026-02-27 03:12:51 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:51 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Dasco44_001_profil.png
+2026-02-27 03:12:51 - 
+2026-02-27 03:12:52 - [61/77] (77.9%) - Bearbeite: Dave Classic
+2026-02-27 03:12:52 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:52 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:52 -     2. Suche nach: Dave Classic
+2026-02-27 03:12:52 -     3. Klicke auf den Künstler
+2026-02-27 03:12:52 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:52 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Dave_Classic_001_profil.png
+2026-02-27 03:12:52 - 
+2026-02-27 03:12:53 - [62/77] (79.2%) - Bearbeite: DaysOfRain
+2026-02-27 03:12:53 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:53 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:53 -     2. Suche nach: DaysOfRain
+2026-02-27 03:12:53 -     3. Klicke auf den Künstler
+2026-02-27 03:12:53 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:53 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\DaysOfRain_001_profil.png
+2026-02-27 03:12:54 - 
+2026-02-27 03:12:54 - [63/77] (80.5%) - Bearbeite: DeadlyFriday
+2026-02-27 03:12:54 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:54 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:54 -     2. Suche nach: DeadlyFriday
+2026-02-27 03:12:54 -     3. Klicke auf den Künstler
+2026-02-27 03:12:54 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:54 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\DeadlyFriday_001_profil.png
+2026-02-27 03:12:54 - 
+2026-02-27 03:12:55 - [64/77] (81.8%) - Bearbeite: Dean
+2026-02-27 03:12:55 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:56 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:56 -     2. Suche nach: Dean
+2026-02-27 03:12:56 -     3. Klicke auf den Künstler
+2026-02-27 03:12:56 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:56 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Dean_001_profil.png
+2026-02-27 03:12:56 - 
+2026-02-27 03:12:56 - [65/77] (83.1%) - Bearbeite: Deek469
+2026-02-27 03:12:56 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:56 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:56 -     2. Suche nach: Deek469
+2026-02-27 03:12:56 -     3. Klicke auf den Künstler
+2026-02-27 03:12:56 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:56 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Deek469_001_profil.png
+2026-02-27 03:12:56 - 
+2026-02-27 03:12:57 - [66/77] (84.4%) - Bearbeite: Dian
+2026-02-27 03:12:57 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:57 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:57 -     2. Suche nach: Dian
+2026-02-27 03:12:57 -     3. Klicke auf den Künstler
+2026-02-27 03:12:57 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:57 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Dian_001_profil.png
+2026-02-27 03:12:57 - 
+2026-02-27 03:12:58 - [67/77] (85.7%) - Bearbeite: Don Rob
+2026-02-27 03:12:58 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:58 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:58 -     2. Suche nach: Don Rob
+2026-02-27 03:12:58 -     3. Klicke auf den Künstler
+2026-02-27 03:12:58 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:58 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Don_Rob_001_profil.png
+2026-02-27 03:12:58 - 
+2026-02-27 03:12:59 - [68/77] (87%) - Bearbeite: Don
+2026-02-27 03:12:59 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:59 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:59 -     2. Suche nach: Don
+2026-02-27 03:12:59 -     3. Klicke auf den Künstler
+2026-02-27 03:12:59 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:59 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Don_001_profil.png
+2026-02-27 03:12:59 - 
+2026-02-27 03:12:59 - [69/77] (88.3%) - Bearbeite: Drogu
+2026-02-27 03:12:59 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:12:59 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:12:59 -     2. Suche nach: Drogu
+2026-02-27 03:12:59 -     3. Klicke auf den Künstler
+2026-02-27 03:12:59 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:12:59 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Drogu_001_profil.png
+2026-02-27 03:12:59 - 
+2026-02-27 03:13:00 - [70/77] (89.6%) - Bearbeite: Dropped
+2026-02-27 03:13:00 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:13:00 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:13:00 -     2. Suche nach: Dropped
+2026-02-27 03:13:00 -     3. Klicke auf den Künstler
+2026-02-27 03:13:00 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:13:00 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Dropped_001_profil.png
+2026-02-27 03:13:00 - 
+2026-02-27 03:13:01 - [71/77] (90.9%) - Bearbeite: Dropshoter
+2026-02-27 03:13:01 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:13:01 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:13:01 -     2. Suche nach: Dropshoter
+2026-02-27 03:13:01 -     3. Klicke auf den Künstler
+2026-02-27 03:13:01 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:13:01 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Dropshoter_001_profil.png
+2026-02-27 03:13:01 - 
+2026-02-27 03:13:01 - [72/77] (92.2%) - Bearbeite: Dynon
+2026-02-27 03:13:01 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:13:01 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:13:01 -     2. Suche nach: Dynon
+2026-02-27 03:13:01 -     3. Klicke auf den Künstler
+2026-02-27 03:13:02 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:13:02 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Dynon_001_profil.png
+2026-02-27 03:13:02 - 
+2026-02-27 03:13:02 - [73/77] (93.5%) - Bearbeite: EAzzzTside
+2026-02-27 03:13:02 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:13:02 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:13:02 -     2. Suche nach: EAzzzTside
+2026-02-27 03:13:02 -     3. Klicke auf den Künstler
+2026-02-27 03:13:02 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:13:03 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\EAzzzTside_001_profil.png
+2026-02-27 03:13:03 - 
+2026-02-27 03:13:03 - [74/77] (94.8%) - Bearbeite: EJames
+2026-02-27 03:13:03 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:13:03 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:13:03 -     2. Suche nach: EJames
+2026-02-27 03:13:03 -     3. Klicke auf den Künstler
+2026-02-27 03:13:03 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:13:03 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\EJames_001_profil.png
+2026-02-27 03:13:03 - 
+2026-02-27 03:13:04 - [75/77] (96.1%) - Bearbeite: ELIA
+2026-02-27 03:13:05 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:13:05 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:13:05 -     2. Suche nach: ELIA
+2026-02-27 03:13:05 -     3. Klicke auf den Künstler
+2026-02-27 03:13:05 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:13:05 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\ELIA_001_profil.png
+2026-02-27 03:13:05 - 
+2026-02-27 03:13:05 - [76/77] (97.4%) - Bearbeite: EMICIANO
+2026-02-27 03:13:05 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:13:05 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:13:05 -     2. Suche nach: EMICIANO
+2026-02-27 03:13:05 -     3. Klicke auf den Künstler
+2026-02-27 03:13:05 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:13:05 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\EMICIANO_001_profil.png
+2026-02-27 03:13:05 - 
+2026-02-27 03:13:06 - [77/77] (98.7%) - Bearbeite: ENQEZ
+2026-02-27 03:13:06 -   → Manuelles Screenshot erforderlich:
+2026-02-27 03:13:06 -     1. Öffne: https://open.spotify.com
+2026-02-27 03:13:06 -     2. Suche nach: ENQEZ
+2026-02-27 03:13:06 -     3. Klicke auf den Künstler
+2026-02-27 03:13:06 -     4. Erstelle Screenshot des Profils
+2026-02-27 03:13:06 -     5. Speichere als: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\ENQEZ_001_profil.png
+2026-02-27 03:13:06 - 
+2026-02-27 03:13:07 - 
+2026-02-27 03:13:07 - === Automatisierung abgeschlossen ===
+2026-02-27 03:13:07 - Bitte erstelle die Screenshots manuell gemäß den Anweisungen oben.
+2026-02-27 03:13:07 - 
+2026-02-27 03:13:07 - Log-Datei: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\screenshot_log.txt
+2026-02-27 03:13:07 - Screenshot-Verzeichnis: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots

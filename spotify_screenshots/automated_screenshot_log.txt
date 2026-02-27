@@ -1,0 +1,185 @@
+2026-02-27 03:13:41 - === Spotify Screenshot Automatisierung gestartet ===
+2026-02-27 03:13:41 - Speicherort: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots
+2026-02-27 03:13:41 - Anzahl Künstler: 77
+2026-02-27 03:13:41 - 
+2026-02-27 03:13:41 - === MANUELLE SCREENSHOT-ERSTELLUNG ERFORDERLICH ===
+2026-02-27 03:13:41 - 
+2026-02-27 03:13:41 - Da das Browser-Tool technische Probleme hat, müssen Screenshots manuell erstellt werden.
+2026-02-27 03:13:41 - 
+2026-02-27 03:13:41 - === ANLEITUNG ===
+2026-02-27 03:13:41 - 
+2026-02-27 03:13:41 - Für jeden Künstler:
+2026-02-27 03:13:41 - 1. Öffne: https://open.spotify.com
+2026-02-27 03:13:41 - 2. Suche nach dem Künstlernamen
+2026-02-27 03:13:41 - 3. Klicke auf den Künstler
+2026-02-27 03:13:41 - 4. Erstelle einen Screenshot des Profils
+2026-02-27 03:13:41 - 5. Speichere den Screenshot im Ordner: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots
+2026-02-27 03:13:41 - 6. Benenne die Datei: {künstlername}_001_profil.png
+2026-02-27 03:13:42 - 
+2026-02-27 03:13:42 - === KÜNSTLER-LISTE ===
+2026-02-27 03:13:42 - 
+2026-02-27 03:13:42 - [1/77] (0%) - Olexesh
+2026-02-27 03:13:42 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Olexesh_001_profil.png
+2026-02-27 03:13:42 - [2/77] (1.3%) - Hanybal
+2026-02-27 03:13:42 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Hanybal_001_profil.png
+2026-02-27 03:13:42 - [3/77] (2.6%) - Disarstar
+2026-02-27 03:13:42 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Disarstar_001_profil.png
+2026-02-27 03:13:43 - [4/77] (3.9%) - Nimo
+2026-02-27 03:13:43 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Nimo_001_profil.png
+2026-02-27 03:13:43 - [5/77] (5.2%) - 249icey
+2026-02-27 03:13:43 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\249icey_001_profil.png
+2026-02-27 03:13:43 - [6/77] (6.5%) - 2busy4time
+2026-02-27 03:13:43 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\2busy4time_001_profil.png
+2026-02-27 03:13:43 - [7/77] (7.8%) - 2dizzy
+2026-02-27 03:13:43 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\2dizzy_001_profil.png
+2026-02-27 03:13:43 - [8/77] (9.1%) - 2late
+2026-02-27 03:13:43 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\2late_001_profil.png
+2026-02-27 03:13:43 - [9/77] (10.4%) - 52Blue
+2026-02-27 03:13:43 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\52Blue_001_profil.png
+2026-02-27 03:13:43 - [10/77] (11.7%) - 7ventus
+2026-02-27 03:13:43 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\7ventus_001_profil.png
+2026-02-27 03:13:43 - [11/77] (13%) - ALeiz
+2026-02-27 03:13:43 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\ALeiz_001_profil.png
+2026-02-27 03:13:43 - [12/77] (14.3%) - AP$
+2026-02-27 03:13:43 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\AP__001_profil.png
+2026-02-27 03:13:43 - [13/77] (15.6%) - Alex Connor
+2026-02-27 03:13:43 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Alex_Connor_001_profil.png
+2026-02-27 03:13:43 - [14/77] (16.9%) - Alexander Eder
+2026-02-27 03:13:43 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Alexander_Eder_001_profil.png
+2026-02-27 03:13:43 - [15/77] (18.2%) - Armando
+2026-02-27 03:13:43 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Armando_001_profil.png
+2026-02-27 03:13:43 - [16/77] (19.5%) - ArniMakeItDrop
+2026-02-27 03:13:43 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\ArniMakeItDrop_001_profil.png
+2026-02-27 03:13:43 - [17/77] (20.8%) - ArniTheSavage
+2026-02-27 03:13:43 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\ArniTheSavage_001_profil.png
+2026-02-27 03:13:44 - [18/77] (22.1%) - Arrow
+2026-02-27 03:13:44 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Arrow_001_profil.png
+2026-02-27 03:13:44 - [19/77] (23.4%) - Artan67
+2026-02-27 03:13:44 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Artan67_001_profil.png
+2026-02-27 03:13:44 - [20/77] (24.7%) - Asterio
+2026-02-27 03:13:44 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Asterio_001_profil.png
+2026-02-27 03:13:44 - [21/77] (26%) - BNZO
+2026-02-27 03:13:44 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\BNZO_001_profil.png
+2026-02-27 03:13:44 - [22/77] (27.3%) - BeSa
+2026-02-27 03:13:44 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\BeSa_001_profil.png
+2026-02-27 03:13:44 - [23/77] (28.6%) - Beigerdon
+2026-02-27 03:13:44 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Beigerdon_001_profil.png
+2026-02-27 03:13:44 - [24/77] (29.9%) - Beneath040
+2026-02-27 03:13:44 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Beneath040_001_profil.png
+2026-02-27 03:13:44 - [25/77] (31.2%) - Benten2030
+2026-02-27 03:13:44 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Benten2030_001_profil.png
+2026-02-27 03:13:44 - [26/77] (32.5%) - Benzo Bailey
+2026-02-27 03:13:44 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Benzo_Bailey_001_profil.png
+2026-02-27 03:13:44 - [27/77] (33.8%) - Bianco
+2026-02-27 03:13:44 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Bianco_001_profil.png
+2026-02-27 03:13:44 - [28/77] (35.1%) - Big Boy Playin
+2026-02-27 03:13:44 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Big_Boy_Playin_001_profil.png
+2026-02-27 03:13:45 - [29/77] (36.4%) - Big Joe
+2026-02-27 03:13:45 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Big_Joe_001_profil.png
+2026-02-27 03:13:45 - [30/77] (37.7%) - Blender
+2026-02-27 03:13:45 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Blender_001_profil.png
+2026-02-27 03:13:45 - [31/77] (39%) - BluFeyza
+2026-02-27 03:13:45 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\BluFeyza_001_profil.png
+2026-02-27 03:13:45 - [32/77] (40.3%) - Bount
+2026-02-27 03:13:45 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Bount_001_profil.png
+2026-02-27 03:13:45 - [33/77] (41.6%) - Broll3
+2026-02-27 03:13:45 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Broll3_001_profil.png
+2026-02-27 03:13:45 - [34/77] (42.9%) - CAMO23
+2026-02-27 03:13:45 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\CAMO23_001_profil.png
+2026-02-27 03:13:45 - [35/77] (44.2%) - CHROME
+2026-02-27 03:13:45 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\CHROME_001_profil.png
+2026-02-27 03:13:45 - [36/77] (45.5%) - CLAY
+2026-02-27 03:13:45 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\CLAY_001_profil.png
+2026-02-27 03:13:45 - [37/77] (46.8%) - CLean
+2026-02-27 03:13:45 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\CLean_001_profil.png
+2026-02-27 03:13:45 - [38/77] (48.1%) - CRO
+2026-02-27 03:13:45 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\CRO_001_profil.png
+2026-02-27 03:13:45 - [39/77] (49.4%) - CXDEX
+2026-02-27 03:13:45 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\CXDEX_001_profil.png
+2026-02-27 03:13:46 - [40/77] (50.6%) - CaSaSi
+2026-02-27 03:13:46 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\CaSaSi_001_profil.png
+2026-02-27 03:13:46 - [41/77] (51.9%) - Cavy
+2026-02-27 03:13:46 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Cavy_001_profil.png
+2026-02-27 03:13:46 - [42/77] (53.2%) - Cee355
+2026-02-27 03:13:46 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Cee355_001_profil.png
+2026-02-27 03:13:46 - [43/77] (54.5%) - Cerejaa
+2026-02-27 03:13:46 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Cerejaa_001_profil.png
+2026-02-27 03:13:46 - [44/77] (55.8%) - ChaiN
+2026-02-27 03:13:46 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\ChaiN_001_profil.png
+2026-02-27 03:13:46 - [45/77] (57.1%) - Chaos41
+2026-02-27 03:13:46 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Chaos41_001_profil.png
+2026-02-27 03:13:46 - [46/77] (58.4%) - Cheekyteo
+2026-02-27 03:13:46 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Cheekyteo_001_profil.png
+2026-02-27 03:13:46 - [47/77] (59.7%) - Chris de Burgh
+2026-02-27 03:13:47 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Chris_de_Burgh_001_profil.png
+2026-02-27 03:13:47 - [48/77] (61%) - Constii
+2026-02-27 03:13:47 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Constii_001_profil.png
+2026-02-27 03:13:47 - [49/77] (62.3%) - Cr7z
+2026-02-27 03:13:47 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Cr7z_001_profil.png
+2026-02-27 03:13:47 - [50/77] (63.6%) - Creety915
+2026-02-27 03:13:47 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Creety915_001_profil.png
+2026-02-27 03:13:47 - [51/77] (64.9%) - Crispy
+2026-02-27 03:13:47 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Crispy_001_profil.png
+2026-02-27 03:13:47 - [52/77] (66.2%) - Cubbie
+2026-02-27 03:13:47 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Cubbie_001_profil.png
+2026-02-27 03:13:47 - [53/77] (67.5%) - DAWY
+2026-02-27 03:13:47 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\DAWY_001_profil.png
+2026-02-27 03:13:47 - [54/77] (68.8%) - DAYDREAMCHASER
+2026-02-27 03:13:47 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\DAYDREAMCHASER_001_profil.png
+2026-02-27 03:13:47 - [55/77] (70.1%) - DER400
+2026-02-27 03:13:47 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\DER400_001_profil.png
+2026-02-27 03:13:47 - [56/77] (71.4%) - DIRTY
+2026-02-27 03:13:47 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\DIRTY_001_profil.png
+2026-02-27 03:13:47 - [57/77] (72.7%) - DONDON
+2026-02-27 03:13:47 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\DONDON_001_profil.png
+2026-02-27 03:13:47 - [58/77] (74%) - DXVE
+2026-02-27 03:13:47 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\DXVE_001_profil.png
+2026-02-27 03:13:47 - [59/77] (75.3%) - DannyoD
+2026-02-27 03:13:47 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\DannyoD_001_profil.png
+2026-02-27 03:13:47 - [60/77] (76.6%) - Dasco44
+2026-02-27 03:13:47 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Dasco44_001_profil.png
+2026-02-27 03:13:47 - [61/77] (77.9%) - Dave Classic
+2026-02-27 03:13:47 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Dave_Classic_001_profil.png
+2026-02-27 03:13:47 - [62/77] (79.2%) - DaysOfRain
+2026-02-27 03:13:47 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\DaysOfRain_001_profil.png
+2026-02-27 03:13:48 - [63/77] (80.5%) - DeadlyFriday
+2026-02-27 03:13:48 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\DeadlyFriday_001_profil.png
+2026-02-27 03:13:48 - [64/77] (81.8%) - Dean
+2026-02-27 03:13:48 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Dean_001_profil.png
+2026-02-27 03:13:48 - [65/77] (83.1%) - Deek469
+2026-02-27 03:13:48 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Deek469_001_profil.png
+2026-02-27 03:13:48 - [66/77] (84.4%) - Dian
+2026-02-27 03:13:48 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Dian_001_profil.png
+2026-02-27 03:13:48 - [67/77] (85.7%) - Don Rob
+2026-02-27 03:13:48 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Don_Rob_001_profil.png
+2026-02-27 03:13:48 - [68/77] (87%) - Don
+2026-02-27 03:13:48 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Don_001_profil.png
+2026-02-27 03:13:48 - [69/77] (88.3%) - Drogu
+2026-02-27 03:13:48 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Drogu_001_profil.png
+2026-02-27 03:13:48 - [70/77] (89.6%) - Dropped
+2026-02-27 03:13:48 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Dropped_001_profil.png
+2026-02-27 03:13:48 - [71/77] (90.9%) - Dropshoter
+2026-02-27 03:13:48 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Dropshoter_001_profil.png
+2026-02-27 03:13:48 - [72/77] (92.2%) - Dynon
+2026-02-27 03:13:48 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\Dynon_001_profil.png
+2026-02-27 03:13:48 - [73/77] (93.5%) - EAzzzTside
+2026-02-27 03:13:48 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\EAzzzTside_001_profil.png
+2026-02-27 03:13:48 - [74/77] (94.8%) - EJames
+2026-02-27 03:13:48 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\EJames_001_profil.png
+2026-02-27 03:13:48 - [75/77] (96.1%) - ELIA
+2026-02-27 03:13:48 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\ELIA_001_profil.png
+2026-02-27 03:13:48 - [76/77] (97.4%) - EMICIANO
+2026-02-27 03:13:48 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\EMICIANO_001_profil.png
+2026-02-27 03:13:48 - [77/77] (98.7%) - ENQEZ
+2026-02-27 03:13:48 -   → Zu erstellen: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\ENQEZ_001_profil.png
+2026-02-27 03:13:48 - 
+2026-02-27 03:13:48 - === ZUSAMMENFASSUNG ===
+2026-02-27 03:13:49 - Vorhandene Screenshots: 0
+2026-02-27 03:13:49 - Fehlende Screenshots: 77
+2026-02-27 03:13:49 - Fortschritt: 0%
+2026-02-27 03:13:49 - 
+2026-02-27 03:13:49 - Bitte erstelle Screenshots für alle 77 Künstler gemäß der Anleitung oben.
+2026-02-27 03:13:49 - Alle Screenshots müssen im Ordner gespeichert werden: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots
+2026-02-27 03:13:49 - 
+2026-02-27 03:13:49 - Log-Datei: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots\automated_screenshot_log.txt
+2026-02-27 03:13:49 - Screenshot-Verzeichnis: c:\Users\x\Documents\GitHub\NWO-Das-Cybermobbing-Kartell\spotify_screenshots
